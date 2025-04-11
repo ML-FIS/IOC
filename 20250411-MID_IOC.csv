@@ -1,8 +1,8 @@
-"type","value","source","articlename"
-"ip","15.197.130.221","Mandiant","UNC3944.csv"
-"ip","162.210.196.172","Mandiant","UNC3944.csv"
-"ip","198.54.117.242","Mandiant","UNC3944.csv"
-"ip","212.30.37.85","Mandiant","UNC3944.csv"
-"ip","45.33.20.235","Mandiant","UNC3944.csv"
-"ip","96.126.123.244","Mandiant","UNC3944.csv"
-"hash_md5","29efd64dd3c7fe1e2b022b7ad73a1ba5","Mandiant","UNC3944.csv"
+type,value,source
+ip,15.197.130.221,Mandiant
+ip,162.210.196.172,Mandiant
+ip,198.54.117.242,Mandiant
+ip,212.30.37.85,Mandiant
+ip,45.33.20.235,Mandiant
+ip,96.126.123.244,Mandiant
+hash_md5,29efd64dd3c7fe1e2b022b7ad73a1ba5,Mandiant
