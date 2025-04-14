@@ -1,0 +1,2 @@
+Indicator Value,Indicator Type,IC Score,Associated Actors,Associated Malware,Associated Tools,Associated Campaigns,Associated Reports,Exclusive,First Seen,Last Seen,SHA1,SHA256,Threat Score
+dd7fa15e22c739c63a092bee501ddc33,MD5,100,,BANANACOOKIE,,CAMP.24.061,"24-10064648, 24-10070103",FALSE,6/26/2024,4/14/2025,63a4755b7a70c4790c6ccbcdfdff3c35e23b566a,125b397a627f37c70e2cf2461c6a6583a975ba78617995751cacb32525a3b875,100
