@@ -1,8 +1,0 @@
-type,value,source,articlename
-domain,alapige.com,Mandiant,Financially Motivated Threat Actor Distributes Several Payloads via Drive-By Downloads of Fake Browser Updates.csv
-domain,anncrman.com,Mandiant,Multiple Threat Actors Using ClickFix Technique to Distribute Malware.csv
-hash_md5,dd7fa15e22c739c63a092bee501ddc33,Mandiant,Financially Motivated Threat Actor Distributes Several Payloads via Drive-By Downloads of Fake Browser Updates.csv
-url,https://alapige.com/3j9m.js,Mandiant,Financially Motivated Threat Actor Distributes Several Payloads via Drive-By Downloads of Fake Browser Updates.csv
-url,https://anncrman.com/4r2w.js,Mandiant,Multiple Threat Actors Using ClickFix Technique to Distribute Malware.csv
-url,https://anncrman.com/js.php,Mandiant,Multiple Threat Actors Using ClickFix Technique to Distribute Malware.csv
-url,https://anncrman.com/stat.php,Mandiant,Multiple Threat Actors Using ClickFix Technique to Distribute Malware.csv
