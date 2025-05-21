@@ -1,0 +1,160 @@
+type,value,source,articlename
+domain,91b4019fd4e1.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,account.migration.jkpolice.gov.in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,asjkpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,dc-mx.91b4019fd4e1.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,exposediaf.nic.in.ministryofdefenceindia.org,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,gov.in.indiandefence.directory,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,gov.in.indiandefence.services,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,gov.in.kashmirattack.exposedjkpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,gov.in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,gov.in.ministryofdefenceindia.org,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,iaf.nic.in.ministryofdefenceindia.org,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,in.indiandefence.services,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,in.kashmirattack.exposedjkpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,in.virtualeoffice.cloud,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,jkpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,jkpolice.gov.in.kashmirattack.exposediaf.nic.in.ministryofdefenceindia.org,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,jkpolice.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,kashmirattack.exposedjkpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,kavach.email,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,kpolice.gov.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,mail.dayenter.shop,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,mea.gov.in.indiandefence.services,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,mgovcloud.in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,mgovcloud.in.virtualeoffice.cloud,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,migration.jkpolice.gov.in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,ministryofdefenceindia.org,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,mod.gov.in.indiandefence.directory,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,nic.in.kashmirattack.exposed,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,virtualeoffice.cloud,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+domain,www.account.migration.jkpolice.gov.in.mgovcloud.de,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+hash_md5,0bb6ff2ffa34b5820eac314ee8139719,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+hash_md5,846b1e41d92f0dee1810e9964c6558bc,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+hash_md5,c969a9c80631c3b9fa221293eef11558,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://dayenter.shop/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://iaf.nic.in.ministryofdefenceindia.org/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://iaf.nic.in.ministryofdefenceindia.org/publications/default.htm,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://jkpolice.gov.in.kashmirattack.exposed/service/home,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://jkpolice.gov.in.kashmirattack.exposed/service/home/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://mail.dayenter.shop/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,http://webmailnic.army/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://accounts.mgovcloud.in.virtualeoffice.cloud/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://accounts.mgovcloud.in.virtualeoffice.cloud/?servicename=VirtualOffice&serviceurl=https://mail.mgovcloud.in/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://accounts.mgovcloud.in.webmailnic.army/signin?servicename=VirtualOffice&serviceurl=https://mail.mgovcloud.in/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://dayenter.shop/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://iaf.nic.in.ministryofdefenceindia.org/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://iaf.nic.in.ministryofdefenceindia.org/publications/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://iaf.nic.in.ministryofdefenceindia.org/publications/default.html,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://in.indiandefence.services/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://jkpolice.gov.in.kashmirattack.exposed/service/home,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://mail.dayenter.shop/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://mea.gov.in.indiandefence.services/service/home,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://mod.gov.in.indiandefence.services/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://mod.gov.in.indiandefence.services/service/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://virtualeoffice.cloud/accounts.mgovcloud.in.virtualeoffice.cloud/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://www.account.migration.jkpolice.gov.in.mgovcloud.de/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,https://www.mea.gov.in.indiandefence.services/,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,tcp://jkpolice.gov.in.kashmirattack.exposed:443,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+url,tcp://mea.gov.in.indiandefence.services:443,Mandiant,APT36 Targets India Government with SEEDOOR Backdoor.csv
+hash_md5,90cd84f9c953b702592eff034bbc0df6,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+url,https://api.github.com/repos/peakyblinders-team/,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,f1d8513e01584f82d9491423a3cc0841,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,986d76931e070a92ad59c3de09695c60,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,7f2a2a15823a66993b7c2b504a0ae00a,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,7caf8f6e1881be3caebe858542b569f7,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,5c3017993b0342cf6240b1c7b34fb8c1,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,3e0b495c23b629a8f953e5c156ebabc5,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,279bb277d858c1df7cd2ad1bbe8122fe,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,0cffbdc6b5fe21f2ee3fe3ebc8f6f521,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,09e83162a6b0bae4b94f21bd6100e33f,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,fd473867833b088e94cadb84a162acbd,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,dce41d9d1da0084e7e44847b1b2b9fe0,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,bdd53bf8d1b2dbf049afe0bf2b1abddc,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,90087f08cf933a6c4d2d51b6e8046837,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,88f5ce77af9dc18a313b73c175427fff,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,8660fe091b4b6c551a6c96062e1cbba9,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,8243af256a47090488b757e6afa2d8f5,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,7a9fcc1640f834fad29328b157ce4d7a,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,0373bc7b1b8978b4df6b28a0eb97513d,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+hash_md5,a453a4ae9cbb58d8fd420abe53aac192,Mandiant,New AEROSTAT Backdoor Downloaded via HOTAIR Targets Iraqi Telecom.csv
+url,smtp://mail.h-kit.com:587,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+url,https://api.telegram.org/bot/7640366552:AAHUZYrOLwd9RSIfw39TaSrk47syt8nAgn0/sendMessage,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,388f72a449ed73be43cb1f71d584252b,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,fd67e5473195146d5773a4fccb0d4b87,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,72816cf4de57e641103fe4eed1ba5c5e,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,6f55c52a6c37520c7a3ef3236ffce539,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,30fb3f6640f657f78031a7bba4d906af,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,8dedc58153d6987dd03333a129a37ed6,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,89b5b93118e13f6f741da865a5caded9,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,31af0de64c935256bee98bf15d30e0f1,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,408f51bd2809921023e83e749d8bd005,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,d0486d106737c48a8b16cd32e89d7787,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,a89f2838466e6568f292efaca742f4cc,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,d75c77c17b40e6c461ae42130dba0292,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,fc8dbb70d044eb44cd80c3fe60f724df,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,a1ecc1df22f79e234d9208d89ee6d671,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,ee2692f4c4bb5b781758fa9829e588a1,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,7ffc8953e37a99647e866a5272c85695,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+url,https://paste.ee/d/uITBMIfe/0,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+url,https://paste.ee/d/4MrZkRez/0,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+url,https://dn721808.ca.archive.org/0/items/new_image_20250509_1852/new_image.jpg,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+url,https://archive.org/download/new_image_20250509_1852/new_image.jpg,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+ip,209.54.102.133,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,1aa06f30fcea5220f43b0d6ff54e1618,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,c3a368d6315257d464cfe657cc671d64,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,ad7a44a52ec4a549cf7c12527c5daf47,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,e8db2071b75864f1c74b95e4d05601b5,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,943c27415809c4830fc7a07d1aecb9ab,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,2ac63f12a5ab66d6fb91415b73dba18f,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,a8e118e1b469befad548eb67fa349dc3,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,786c4ffd4f22f59413d424bcba229366,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+hash_md5,3b2958756bfc7f76459073f9de109c36,Mandiant,Operational Technology Phishing Roundup May 14-20 2025.csv
+domain,www.dwnlld.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,www-treasury-gov-lk.org-liv.net,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,www-cabinetoffice-gov-lk.mail-govt.org,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,probashi-gov-bd.mail-govt.org,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,mofa-gov-bd.dwnlld.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,mail.ntc.net.pk.vpdf.online,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,mail.army-govbd.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,hisidewindersidewinder.pimec-paknavy.updates-installer.store,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,fa-gov-lk.dwnlld.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,dwnlld.infomfa-gov-lk.dwnlld.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,mof-gov-bd.nic-svc.net,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,emv1.army-govbd.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,cabinet-gov-bd.org-liv.net,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+domain,advisary.army-govbd.info,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,ebe81b854c35bbcb3f7a23404676b733,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,a7583a16ca65464164b1ec98630a96f3,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,9cd3ba87b000737567036900f36604b1,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,964befd24e41a128e9fffdc7b41399a8,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,8c97148d293fc08bfc54b2ae615491d8,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,6c706df697ad8dc8f0867a4f65817216,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,6a4ef9758a724d0a2e36e49f33661ac3,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,5c5c62404ffccd672968b900b2681ec8,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,23307944645e31cb9229908418d549a2,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,22cf1fe1df9c0c24a82a0c0ddbc28ab1,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,8f52d453655249fe2b1e9dfe23b30162,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,ffa61fe9167251575fed7fd44b512fa4,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,f7a70a3984173e946539058e1fbdcacd,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,dddfa47fd3dc6bdfd7b6b33cb1b694ad,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,ca46bdc4d7e537f0270cf7e2ac43cfa5,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,c45ed6344882e49bb4db9f9a8c84ebeb,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,ba837286034e523fb69717f0754660c2,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,b0f2f200a69db71947578fca51d4ff94,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,a8066b52498320c0b06588a7d84a3876,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,a7b09ce60038dc290e706cd63c008550,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,a1d195e1dfa679218991e4e53a056ce3,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,8f07e3dd6051ab578f896880ac4a59e6,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,8ee47d6733dca757fa16e5e2f37f841b,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,8a4ee0e5267e1393f576aa3732c33d15,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,50bcf9605850bf9f61c4f762e62ae58c,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,1f55852bac0ccfc41f6b7218f119e4a4,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,0ffd99b46024863228e14efea8265ff2,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,be8a7c91f036f5e59a7fccb866e45d43,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,72aae7a8f1f5e0a5fe72a382b8f9febb,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,6a84b971194afe6256be1f7f68587a60,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,3d12638e57870c22df143418a2adfead,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
+hash_md5,132eab64902f55f102367daf709c4c0c,Mandiant,South Asian Ministries Hit by SideWinder APT Using Old Office Flaws and Custom Malware.csv
