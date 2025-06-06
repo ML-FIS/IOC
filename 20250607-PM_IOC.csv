@@ -1,0 +1,13 @@
+"type","value","source","articlename"
+"domain","mx1.hinet.net.tw","Mandiant","COCAMUNA Backdoor Uses SMTP for Command and Control, Deployed by Suspected Chinese Espionage Operation.csv"
+"domain","promo.kimmwhite.com","Mandiant","Actor of Unknown Motivations Leverages FAKETREFF Access to Deploy VOLTMARKER and NIGHTROPE.csv"
+"hash_md5","082c43243ca159550b4bcd631265d343","Mandiant","COCAMUNA Backdoor Uses SMTP for Command and Control, Deployed by Suspected Chinese Espionage Operation.csv"
+"hash_md5","1b568903b8e7c10e05fae0a61021304e","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"ip","118.163.116.211","Mandiant","COCAMUNA Backdoor Uses SMTP for Command and Control, Deployed by Suspected Chinese Espionage Operation.csv"
+"url","http://45.94.47.147/contact","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"url","https://isbulten.com/00a1dasdfd4b204fe33temp/5242b3cb424e7f470/load.9f3665b4bf23b1d138bcd6f5.php?call=mystic","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"url","https://isbulten.com/api.php?call=mystic","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"url","https://linktr.ee/mysticwinds","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"url","https://mysticwinds.io/download","Mandiant","Distribution Threat Cluster Update May 24-30 2025.csv"
+"url","smtp://118.163.116.211:25","Mandiant","COCAMUNA Backdoor Uses SMTP for Command and Control, Deployed by Suspected Chinese Espionage Operation.csv"
+,,,
