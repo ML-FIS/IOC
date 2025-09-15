@@ -1,0 +1,202 @@
+type,value,source,articlename
+domain,img-data-backup.b-cdn.net,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+domain,middleeast-news.net,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+domain,npmjs.help,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+domain,soartire.net,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+domain,static-mw-host.b-cdn.net,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+domain,topsupload.com,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+domain,websock-api2.publicvm.com,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+domain,websocket-api2.publicvm.com,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+domain,www.npmjs.help,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+hash_md5,0038f120b2b5093cf1a35190260c0677,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,096dd6f0422ea562956e4eb64c48e311,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,0a74c930bb992e0fbd0cc646baa048bf,Threatview,Threatview
+hash_md5,0d3a671ffa71e3e5cc9b1ddc051c16af,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,117e302e2d09e896e4cc0bcce29e10dc,Threatview,Threatview
+hash_md5,14b444be72666c198220570e96c9c7f8,Threatview,Threatview
+hash_md5,1ba19036062c55ade39811d524a4358d,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,364a0f60a5212b26880e06b32c45626a,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,401d3909c645f16c57e2a90960e6a377,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,446dc087ace8efab019e93e5565d9462,Threatview,Threatview
+hash_md5,4987780c2d5abc8ae1466fc282d63dcf,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,52bc19f75d05aab5d5b7459c281f5a75,Extracted,Threatview
+hash_md5,5e8bb90b2f5174a5c3a055595f735d18,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,61ef86b0f4de7dbfa7d6ebe6e0852eaa,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,670519058a309a63ff63bbf573f79916,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,67e8ccaecdce7983a40fc09d239945c4,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,69d8bb04f562038e5b7d765473036029,Threatview,Threatview
+hash_md5,85cf58f89479740b47690d83393aea0d,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,8fa52f316c393496f272357191db6deb,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,8fed2ca8fe2d733b3d4c4abc810745c9,Extracted,Threatview
+hash_md5,95daa771a28eaed76eb01e1e8f403f7c,Threatview,Threatview
+hash_md5,a009e82a2d04961745b583254bf8d31c,Threatview,Threatview
+hash_md5,a58f5f5a1936c59c44c60a7771b24c9a,Extracted,Threatview
+hash_md5,a5cf82c833f162b1a0decac4d486a500,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,aaa8ba906651ff4d23a7e51f5c3d9987,Threatview,Threatview
+hash_md5,b15920685a76992ad8179687b3c0a7c3,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,b2b482305dc612e47cee5c5a00a2aeff,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,b9485eeac972f80484def2887b0c36fa,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,baba1728a03c8c05b13b57c909778c0a,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,bae7a361f0e76807407df7d9d5fdd67f,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,c6854118f7e9ea0ec3cbd6163e3e2541,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,d1685aed0c3703545f4ca0cb2cfac17a,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,e184fe6b3244787a71e1d1d4a152a9b5,Mandiant,New HybridPetya Ransomware Bypasses UEFI Secure Boot with CVE-2024-7344 Exploit.csv
+hash_md5,e2e336552146d852aed7e705602a59a4,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+hash_md5,ec5dcb3a734b4c488e94f7ae3677591a,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+hash_md5,f23cec068095631be72a3ccf97d53e81,Extracted,Threatview
+hash_sha256,206F27AE820783B7755BCA89F83A0FE096DBB510018DD65B63FC80BD20C03261,Threatview,Threatview
+hash_sha256,7e9078fd8654028df65a47ccba18f25fd3bdfb1b7716495e063b95b9ff1fd06e,Threatview,Threatview
+hash_sha256,82f5e455ebce674b4382bf2e7d0c58d67a11af3f861ea4ee1c431013d5ffe85e,Threatview,Threatview
+hash_sha256,cd9cb962561686a6d4752047394f213eff582036ef16a88c673ab74fe3f346d7,Extracted,Threatview
+hash_sha256,ee5af2dec02b09004f9e16acda8dd9e369ad6e02c8cdc042c09d520014c4f633,Extracted,Threatview
+hash_sha256,ef934e0472d2db282cf7efd00426dd8ea0dc1bfe4ed43032ca56f4e4467b34b8,Threatview,Threatview
+ip,104.193.135.221,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,104.223.118.62,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,13.67.175.79,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,141.98.252.189,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.165.47,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.168.239,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.173.60,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.185.47,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.189.111,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.189.47,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.198.112,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.211.119,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.211.183,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,146.70.211.55,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,147.161.173.90,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,149.22.81.201,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,151.242.41.182,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,151.242.58.76,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,154.41.95.2,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,162.241.120.121,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+ip,163.5.149.152,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,168.100.10.120,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+ip,176.65.149.100,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,179.43.159.198,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.130.47.58,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.136,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.138,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.151,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.166,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.168,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.181,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.184,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.141.119.185,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.207.107.130,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.209.199.56,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.133,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.143,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.164,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.167,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.169,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.180,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.185,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.220.101.33,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,185.7.81.108,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+ip,191.96.207.201,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,192.198.82.235,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,192.42.116.179,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,192.42.116.20,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,194.15.36.117,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,195.47.238.178,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,195.47.238.83,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,195.54.130.100,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,196.251.83.162,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,198.44.129.56,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,198.44.129.88,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,198.54.130.100,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,198.54.130.108,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,198.54.133.123,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,20.190.130.40,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,20.190.151.38,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,20.190.157.160,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,205.234.181.14,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.104,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.124,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.14,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.25,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.26,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.64,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,206.217.206.84,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,208.131.130.53,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,208.131.130.71,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,208.131.130.91,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,208.68.36.90,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,212.18.104.52,Mandiant,Financially Motivated Actor Compromises ESXi Infrastructure to Deploy Ransomware.csv
+ip,23.145.40.165,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,23.145.40.167,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,23.145.40.99,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,23.162.8.66,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,23.234.69.167,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,23.94.126.63,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,31.58.169.85,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,31.58.169.92,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,31.58.169.96,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,34.86.51.128,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,35.186.181.1,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,37.19.200.132,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,37.19.200.141,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,37.19.200.154,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,37.19.200.167,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,37.19.221.179,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,38.22.104.226,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,44.215.108.109,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,45.83.220.206,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,51.89.240.10,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,64.94.84.78,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,64.95.11.225,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,64.95.84.159,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,66.63.167.122,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,67.217.228.216,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.235.43.202,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.235.46.151,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.235.46.202,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.235.46.208,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.235.46.22,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,68.63.167.122,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,69.246.124.204,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,72.5.42.72,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,79.127.217.44,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,83.147.52.41,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,87.120.112.134,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,94.156.167.237,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,96.44.189.109,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,96.44.191.141,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+ip,96.44.191.157,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+url,http://64.95.11.112/hello.php,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+url,http://topsupload.com/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,http://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/UcfzlR4oU3,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,http://upupload.co/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,http://upupload.co/share3dbfvjkkjdfikww/b3vshiw,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,http://upupload.co/share3dbfvjkkjdfikww/f4ea3535-b9cd-4ae1-a963-5cd704ae5f0a,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,http://upupload.co/share3dbfvjkkjdfikww/taskhostw.exe,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://drive.google.com/file/d/1NqWULkGo1nvCnSZkkKai4x-grmbtSW0p/MyAccount.zip,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://login.salesforce.com/setup/connect,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+url,https://login.salesforce.com/setup/connect?user_code=8KCQGTVU,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+url,https://login.salesforce.com/setup/connect?user_code=aKYF7V5N,Mandiant,FBI Warns of UNC6040 and UNC6395 Targeting Salesforce Platforms in Data Theft Attacks.csv
+url,https://soartire.net/index.php,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://syrianhost.com/webmail/plugins/additional_message_headers/b3VshIW.txt,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/filelist.xml,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/2OIzGa8YeN,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/CZoLthYd1E,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/fmfcgzgxtntmnvfmwjwxnnhbbptnqgk/qlljbgp2od,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/T5xgJhHqMF,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/UcfzlR4oU3,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/FMfcgzGxTNtmNvfMwjWXnnhBbPTnQGK/ZkDuGZBpDh,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/fmfcgzgxtntmnvfmwjwxnnhbbptnqgk/zz8zfa7ess,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/geciweb.com,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/qwe,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://topsupload.com/wpcont/1&1/source?email=redacted@abuse.ionos.com,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/b3VshIW,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/b3vshiw/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/b3VshlW,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/f4ea3535-b9cd-4ae1-a963-5cd704ae5f0a,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/f4ea3535-b9cd-4ae1-a963-5cd704ae5f0a/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/taskhostw.exe,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://upupload.co/share3dbfvjkkjdfikww/taskhostw.exe/,Mandiant,Suspected Egyptian Threat Group Conducts Credential Phishing and Malware Distribution.csv
+url,https://websock-api2.publicvm.com/images/jpg-to-png.php?,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
+url,https://www.npmjs.help/settings/qix/tfa/manageTfa?action=setup-totp,Mandiant,Threat Insights Large-Scale NPM Supply Chain Attack Led to Limited Cryptocurrency Theft.csv
