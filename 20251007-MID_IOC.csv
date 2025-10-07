@@ -1,0 +1,130 @@
+type,value,source,articlename
+domain,1-800-lowfare.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+domain,api.rmr6qd1zy9hyafyzk2.com,Mandiant,Actor of Undetermined Motivations Utilizes Trojanized Installers and Malicious Node.js Scripts for Persistence and Discovery.csv
+domain,bjxqd.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+domain,demopolis-al.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+domain,lorrieobrien.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+domain,lucidamiproductions.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+domain,nickbush24.com,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,02b3a5f0121fab02f22173c9e738fee6,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,030309eaa76657299597271de5958b99,Extracted,Threatview
+hash_md5,0538424cc6f163a8e593a6d3dea5137d,Extracted,Threatview
+hash_md5,09eeae60839771f5f15f4e0b29ecb7e8,Threatview,Threatview
+hash_md5,0f11963204009cc4b85247677157de06,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+hash_md5,1810f7462b4aed325541508f9ae5f56e,Extracted,Threatview
+hash_md5,28063efd137c9c38a99f86f855d7950e,Threatview,Threatview
+hash_md5,2af9668a5bcf60e0798ea170f2d3a3dd,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,2bf28d2f05ab1cc5e3a3c73bafc6eb1a,Extracted,Threatview
+hash_md5,3085723810eca364a374c88ca0e88b05,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,317d3fcbfd2f252f0c5ce5629e037558,Threatview,Threatview
+hash_md5,3564240380371c03f6de01284ede2daf,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,3bae453d2ca94d835cabcccd19e40248,Extracted,Threatview
+hash_md5,3be943eb6c27419186bff60dba708172,Extracted,Threatview
+hash_md5,40ebe95cc2305cdb2ef287faba3aa700,Extracted,Threatview
+hash_md5,45119571b2d2fd98ae3f7bd56dce106c,Extracted,Threatview
+hash_md5,4585b12751e8d74b3324130efcf32055,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,46590420d546bccaa5da76a005ca85f4,Extracted,Threatview
+hash_md5,4cb7a08278f9d9a27d81873a57a5fe10,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,4d1a16f71c03be6f3ab1d94d4210c678,Threatview,Threatview
+hash_md5,4d7031641eb62b7ca6c019dff110e5f6,Extracted,Threatview
+hash_md5,4de7c0344c5f0fac58f56d1fcac5e65f,Threatview,Threatview
+hash_md5,4e16c222dd2e2d92c46435484d6c1381,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,514d8fcd77c540819917c6e5c5ad416e,Threatview,Threatview
+hash_md5,516f1f79bc00046376f878316b4d2610,Extracted,Threatview
+hash_md5,54980bec63368805b4df62bba5d4f1ef,Extracted,Threatview
+hash_md5,577fa5475c8aa666e750ba440ac31022,Extracted,Threatview
+hash_md5,5a0af735ded76af7dc35e51c262454cf,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,605d65e4cb52e9a0b2c64196cf17a632,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,61cceb24adcbe0b4f63d6640831a87f2,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,6660d0e3c4aedb57422cfa418f2c2a67,Extracted,Threatview
+hash_md5,746e5d04c376a06077e86d00453947b8,Extracted,Threatview
+hash_md5,7a896be37ddedd4fce04e5f5db4a4757,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,7f49e4d8d658c0b2535b0f605f0711ea,Threatview,Threatview
+hash_md5,815c000635f3a4ab2603f8b34e263452,Threatview,Threatview
+hash_md5,822968dfb2982abbd4c9cbd99fc94cb6,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,84f86cbf3ec6895359726251378659fc,Extracted,Threatview
+hash_md5,8578b3740749e09ff52e250fbf8edfcd,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,87118baadfa7075d7b9d2aff75d8e730,Extracted,Threatview
+hash_md5,882d583cf87740b8942d653cb16137de,Threatview,Threatview
+hash_md5,89ff15bae1bc050ba6e57fd659e764c2,Extracted,Threatview
+hash_md5,8acddbc29a8a858f972837c285c3ef4f,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,8ba399688dff40d189bf67653a54dc43,Extracted,Threatview
+hash_md5,8f8f6bac83c71f30006f008d319de1ac,Threatview,Threatview
+hash_md5,913e567043a055962e3f3e44b2968f14,Threatview,Threatview
+hash_md5,93b460635a4015d04bfae9eb3cd537cc,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,9637b4b5d698d6416549124ebca90608,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,9cc535b56ddde4bb45a25517dbf18f9e,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,9d3ac92937c8986ce55b308c60ae8f9a,Threatview,Threatview
+hash_md5,a29430f7030d8523fdea15474a85d5dd,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,aaf8b2c8d1b927d2e942ddf107264381,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,ab1bff0a6e95e00ad3ff7a5f8ba0d731,Threatview,Threatview
+hash_md5,ae0ddf586fcd008a79f06069287c6a9b,Threatview,Threatview
+hash_md5,aeb409248f014ce90749a6bf33d82928,Extracted,Threatview
+hash_md5,af85c2c280914b5747b65a8ce0c2f5d1,Extracted,Threatview
+hash_md5,b298f0c6c459ef001159d7a7d275d3db,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,b4f72e624e5b4ccb90984f2159716e19,Threatview,Threatview
+hash_md5,b899a35b242190bb0db649bdd9f8d227,Threatview,Threatview
+hash_md5,b95e4bee5d46538d7be49eb310511e17,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,bb50383eac05377d7feae5b9c3024550,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+hash_md5,bd7e8c7bf23d08ccf1953bf09a651098,Threatview,Threatview
+hash_md5,bfa3c4653bd2be46d63bc330567b1ac5,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,c20cfaf028747ae0d4e01ebf316ceedf,Threatview,Threatview
+hash_md5,c37a34dc17f90fd0979f9065dcff7686,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,d753304b13454414d7cc5d8c142e2d35,Threatview,Threatview
+hash_md5,e536d36036011bab5844f35e6faf0c8a,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,eb119087d7395ca0e9c32e5fc3bcbc3b,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_md5,ebc1baf7f0229f7f61a7453d78dc539f,Extracted,Threatview
+hash_md5,ebf559ce8629e9fbe87a75676eac0b0f,Extracted,Threatview
+hash_md5,ecb4c68ffbc617e3f0b5b2625cf25601,Threatview,Threatview
+hash_md5,edb51ebd8e99c647c1c252dcd2b14b11,Threatview,Threatview
+hash_md5,efffe2afbc5d8a0ad85b16155f0e1ed6,Threatview,Threatview
+hash_md5,f136138d2e16aad30f27c6f30742dd7b,Threatview,Threatview
+hash_md5,f692a6ffb09d9fe9840ed0c3fa0ee87e,Threatview,Threatview
+hash_md5,f82dd6fbefa9203439e9d50f387d4f5d,Threatview,Threatview
+hash_md5,f8e1ca6f366321bdfb19f4a0f9751ae3,Extracted,Threatview
+hash_md5,fa37581db084905acb99eaa328643333,Threatview,Threatview
+hash_md5,fb17e39c3b72602f421c2cfbfbc9cc80,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+hash_sha256,0d395e1b5680b9e1530bb3a1071bb1ebe54349174c8059ba8f6dea65fd282e63,Extracted,Threatview
+hash_sha256,156541afe21c9f60150b1376e76e09d3b9b6e1b6ec17340b47efe6479eb2489f,Threatview,Threatview
+hash_sha256,3aa76195a896e35af745219d79be05137648f8e82bfc1771f5e2d70f22120ec1,Threatview,Threatview
+hash_sha256,5d5ae0671130f0b8232e4e426d88fb4fa42f50e86b7a016a92b89c4181528ad3,Extracted,Threatview
+hash_sha256,7c5583fff213bd93237b110c274a7ceb8063dd7ee1d0b4fd38351e2975be5cee,Extracted,Threatview
+hash_sha256,abb0e6628c891bcd8ed54bf08790718eeb0c7a44f157d28ced18adfebe4dce21,Extracted,Threatview
+hash_sha256,cc9a50e2e6a6456c9f8b86f3ba4451cd7306c57ca9c4377ca0e29b357e1b1dd5,Threatview,Threatview
+hash_sha256,e70dd343ea3897409deac26ca2b9dca09209d162e0dfe11e69f119527ffeb0bd,Extracted,Threatview
+hash_sha256,f21483536cbd1fa4f5cb1e996adbe6a82522ca90e14975f6172794995ed9e9a2,Threatview,Threatview
+hash_sha256,f56b7a405ac92e33ed8aa43b14af6e6cd11c6c05ba8f8e9ab89796004521abea,Extracted,Threatview
+ip,185.196.10.127,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+ip,185.28.119.135,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+ip,194.213.18.89,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+ip,45.66.248.249,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+ip,45.86.230.205,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+ip,45.86.230.77,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+ip,85.239.52.2,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+ip,85.239.53.113,Mandiant,Financially Motivated Actor Leverages Malvertising to Distribute Trojanized Software and DISCBURST Backdoor.csv
+url,http://185.196.10.127/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://185.196.10.127/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://185.196.10.127/secure,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://185.196.10.127:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://185.196.10.127:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://185.196.10.127:443/secure,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://194.213.18.89:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://194.213.18.89:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.66.248.249:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.66.248.249:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.205/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.205/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.205:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.205:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.77:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.77:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://45.86.230.77:443/secure/up,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://85.239.52.2/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://85.239.52.2:443/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,http://85.239.52.2:443/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://194.213.18.89/login,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://194.213.18.89/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://bjxqd.com/reg,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://collierspm.com/model/de920f6dd0376ff88615d41bfa4db2014e977b00ae72e4c394cb5bcbfe09acef,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://essexglazing.com/model/21573477fb0eea19be6dd4a7678c7fbbcfa7631a25d5df45185b97a73d757d27,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
+url,https://summithilllaboratories.com/model/3de567cf3083d87f59260fa1665fe4dfa52b07099e16b3742fb843d4ec63fa84,Mandiant,Financially Motivated Threat Actor Uses Malicious Advertisements to Distribute Malware.csv
