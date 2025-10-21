@@ -1,0 +1,58 @@
+type,value,source,articlename
+domain,aar.gandhibludtric.com,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+hash_md5,030164f439ae48a3adcb1f89c8cb6a57,Extracted,Threatview
+hash_md5,06b53b3b0fee06cc9a95fd65dbf2fb3e,Threatview,Threatview
+hash_md5,0a02938e088b74fe6be2f10bb9133f2a,Mandiant,China-Nexus Espionage Actor Leverages Diplomatic Lures to Deliver SOGU Backdoor to European Officials.csv
+hash_md5,0d364200e744834c2d74659ffbcf802a,Extracted,Threatview
+hash_md5,108559c638f281172af6611a8fb521a8,Extracted,Threatview
+hash_md5,10b7139952e3daae8f9d7ee407696ccf,Threatview,Threatview
+hash_md5,17a6748f8e3def110c6ab1ea8daab4c7,Mandiant,China-Nexus Espionage Actor Leverages Diplomatic Lures to Deliver SOGU Backdoor to European Officials.csv
+hash_md5,18498b1ff111ee9d9a037c280f75b720,Threatview,Threatview
+hash_md5,1C48B76CE58DA6E7E482F4B84DE760AB,Threatview,Threatview
+hash_md5,2226d3e8843b3e2c228da3a3fdc56e7b,Mandiant,China-Nexus Espionage Actor Leverages Diplomatic Lures to Deliver SOGU Backdoor to European Officials.csv
+hash_md5,2925f759f5404c63b7c89a401b18e0d4,Extracted,Threatview
+hash_md5,311f9894297fb1624a2c99ac5c8d8abf,Extracted,Threatview
+hash_md5,3a23be7cc20d22484388f0681495df10,Extracted,Threatview
+hash_md5,42c4b1eaeba9de5a873970687b4abc34,Extracted,Threatview
+hash_md5,4be261a5f961aa08659ab366a4b588c3,Extracted,Threatview
+hash_md5,5ab7eec15175a7b817efc4a05db51897,Extracted,Threatview
+hash_md5,5f31aae0cb3c5aefcecf870871ad6ddc,Threatview,Threatview
+hash_md5,602015ce31a77619e38748a32e57e1c2,Extracted,Threatview
+hash_md5,71bf02f5fca44de9b20efcdb1d468943,Extracted,Threatview
+hash_md5,736eed6324b8515cd28cebaa7af607e1,Extracted,Threatview
+hash_md5,7b8b2e99a8d213cb89fb9a0f761b5693,Extracted,Threatview
+hash_md5,82ffbaf5a1ef93e998cb401d40e5684f,Threatview,Threatview
+hash_md5,9ddd4c1d51054fd4f6c8a6d74af8264f,Extracted,Threatview
+hash_md5,a19bd9f68f9c3b051adfc74dbd67488c,Extracted,Threatview
+hash_md5,a1a6422092f4ea4b47bf4dd68b450034,Extracted,Threatview
+hash_md5,a38de163ee19e78d8582efb9d7f286c1,Mandiant,China-Nexus Espionage Actor Leverages Diplomatic Lures to Deliver SOGU Backdoor to European Officials.csv
+hash_md5,aff4b4f121aba5046f781fc6aafe8de2,Extracted,Threatview
+hash_md5,b38e80cc71cc9af7f5428429ca59b313,Threatview,Threatview
+hash_md5,b9cffa962d64c035079a3c955a183c02,Threatview,Threatview
+hash_md5,c04a5bed2d65f02a78124f8e8b3b2c61,Extracted,Threatview
+hash_md5,c0507cb1afd0908cf41a22f1014ad9b1,Extracted,Threatview
+hash_md5,d9ffb022e740381124722273b187adb6,Threatview,Threatview
+hash_md5,de270e27ba0844bec6ad40221e93ea6a,Threatview,Threatview
+hash_md5,e1b4572ea0780c963043819016f4c7a8,Extracted,Threatview
+hash_md5,ecaafe9c48dff20de04cdf08ef48e703,Threatview,Threatview
+hash_md5,efcd47e97cdb798c37d3af77727938a8,Threatview,Threatview
+hash_sha256,341252a437e7535f9ea8707e41f0ff2a775eddb16190eeb9f0c0f524214e4f3d,Extracted,Threatview
+hash_sha256,362004e32c165ef58dcb34c22872ac6286622678b2f287acd62f89d92da98336,Threatview,Threatview
+hash_sha256,36d4a0c46a0b9613b7f4ab38a9bf1a8ee3d54e059f2451f20e999a7b49b9af56,Extracted,Threatview
+hash_sha256,57aebadf554e03a405a30d8ddad8caa8cfe9fa86eb32f672066dcf63691481ca,Threatview,Threatview
+hash_sha256,6d61d7284a81149ae6db117cbbcbac1e8ced4d762a92e57cd2c7f85f834143de,Extracted,Threatview
+hash_sha256,83c886d04b54df7265e9a0b8e48a35578074e0d4807526c14f8d80821c4d8bc6,Extracted,Threatview
+hash_sha256,e667ebfd703d140197205b21039ed1cdf340502e379d59b4ae3f0d9c8a151330,Extracted,Threatview
+hash_sha256,fae6192a0648a892c845d9498002ca79497ea58e5315d277f65f7b243f7110e4,Threatview,Threatview
+ip,176.65.149.100,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+ip,185.130.47.58,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+ip,185.220.101.167,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+ip,185.220.101.185,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+ip,185.220.101.33,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+ip,192.42.116.20,Mandiant,Opportunistic Actor Conducts Widespread Data Theft via Salesloft Drift Integrations.csv
+url,http://156.244.28.153/17ABE7F017ABE7F0,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+url,http://89.31.121.101:443/123.txt,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+url,http://89.31.121.101:443/imfsbDll.dll,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+url,http://89.31.121.101:443/NortonLog.txt,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+url,http://89.31.121.101:443/WINMM.dll,Mandiant,Salt Typhoon Uses Citrix Flaw in Global Cyber-Attack.csv
+url,https://mydownload.z29.web.core.windows.net/NAJU%20Plan%20Obuka%20OKTOBAR%202025.zip,Mandiant,China-Nexus Espionage Actor Leverages Diplomatic Lures to Deliver SOGU Backdoor to European Officials.csv
