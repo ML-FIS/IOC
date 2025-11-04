@@ -29,6 +29,7 @@
 "hash_md5","2acd1d28a527afe689b4974c0adf39fe","Threatview","Threatview"
 "hash_md5","38f2e93f027c88436deb392f3f2abe75","Mandiant","Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack.csv"
 "hash_md5","46b74ca338bd48d0a1600866077da5c5","Threatview","Threatview"
+"hash_md5","467d1d12df433e5f6bb45998f05d99df","Actor of Unknown Motivations Exploiting CVE-2025-59287 in Microsoft Windows Servers and Deploying Secondary Payloads"
 "hash_md5","4a2a2c87f2741776b751b8c6e3c7f53e","Mandiant","Campaign 25.061 Iranian Espionage Group Abusing Trusted Relationships Within Phishing Attacks Against Organizations in the Middle East.csv"
 "hash_md5","4a81e65c2c2f83659ea3fc97f0df8526","Mandiant","Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack.csv"
 "hash_md5","53bfd0a8fe29010fb8a26f8b10618ae6","Mandiant","Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack.csv"
@@ -108,3 +109,4 @@
 "url","https://self-media.com/iw.php","Mandiant","Russian-Speaking Threat Actor 'hellothere' Seeks to Distribute the NORDLOADER Downloader, Particularly to Entities Based in the US, the EU, and Canada.csv"
 "url","https://view.allisons.org/DemocracyForum/client-id=0729981e6-8cfb-4270-ba45-89910901f42view.php?Guid=YW5raXQucGFuZGFAY2VpcC5vcmc=","Mandiant","Campaign 25.070 APT43 Leverages QR Code Phishing Lures to Harvest Credentials from Diplomatic and Academic Entities.csv"
 ,,,
+
