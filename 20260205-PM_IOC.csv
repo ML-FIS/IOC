@@ -174,7 +174,6 @@
 "ip","109.107.168.147","Threatview",""
 "ip","110.234.224.37","Threatview",""
 "ip","124.222.137.114","Google TI","Multiple Threat Actors Exploiting Update Integrity Verification Vulnerability (CVE-2025-15556) in Notepad++.csv"
-"ip","127.0.0.1","Google TI","Multiple Threat Actors Exploiting Update Integrity Verification Vulnerability (CVE-2025-15556) in Notepad++.csv"
 "ip","13.126.18.223","Threatview",""
 "ip","130.12.180.43","Threatview",""
 "ip","146.0.41.206","Google TI","Update Emergency Microsoft Update Addresses Actively Exploited Office Zero-Day CVE-2026-21509.csv"
@@ -271,3 +270,4 @@
 "url","https://wellnesscaremed.com/buch/Downloads/document.doc.LnK?init=","Google TI","Update Emergency Microsoft Update Addresses Actively Exploited Office Zero-Day CVE-2026-21509.csv"
 "url","https://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=","Google TI","Update Emergency Microsoft Update Addresses Actively Exploited Office Zero-Day CVE-2026-21509.csv"
 "url","https://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=","Google TI","Update Emergency Microsoft Update Addresses Actively Exploited Office Zero-Day CVE-2026-21509.csv"
+
