@@ -6,7 +6,6 @@
 "domain","ouviraparelhosauditivos.com.br","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "domain","siriusmarine-sg.com","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "domain","ssmview-group.gitlab.io","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
-"domain","surge.sh","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "domain","weds101.siriusmarine-sg.com","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "hash_md5","047ecfaf35b24ec74b523df17a745365","Google TI","Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv"
 "hash_md5","117cf11f831bf97445383a9df11ab95c","Threatview","Threatview"
@@ -103,3 +102,4 @@
 "url","https://ssmview-group.gitlab.io/ssmviewhttps://ssmview-group.gitlab.io/ssmview","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "url","https://weds101.siriusmarine-sg.com/minerwebmailsecure101/https://weds101.siriusmarine-sg.com/minerwebmailsecure101/","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
 "url","https://westsecure.powerappsportals.com/security/https://westsecure.powerappsportals.com/security/","Google TI","OAuth Redirection Abuse Targets Government Entities for Phishing and Malware Delivery.csv"
+
