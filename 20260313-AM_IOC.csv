@@ -1,0 +1,63 @@
+﻿type,value,source,articlename
+domain,codefusiontech.org,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+domain,fliqr.codes,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+domain,maxisteq.org,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+domain,miniquest.org,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+domain,promoverse.org,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+domain,systemsetservices.com,Google TI,Suspected Iranian Espionage Group Utilizes Fake Resume Lures on GitHub to Distribute Malware.csv
+hash_md5,03029a13acbdf78423be5528e21507a3,Threatview,Threatview
+hash_md5,0a2d1917facd568775ee744d180de1a9,Threatview,Threatview
+hash_md5,18cbe55c3b28754916f1cbf4dfc95cf9,Threatview,Threatview
+hash_md5,1ad8693349b53dd62bc9fe9509bfc8f7,Threatview,Threatview
+hash_md5,219084deec1723638853016e5f928106,Threatview,Threatview
+hash_md5,254968ce0d2580e29d593cea18ed793d,Threatview,Threatview
+hash_md5,27fe183f8c4824270a9fc03317f4134b,Threatview,Threatview
+hash_md5,3ee66f56461fc046f600230d11ebe731,Threatview,Threatview
+hash_md5,4e078335669835b915ea6dc1fd436da6,Threatview,Threatview
+hash_md5,5e6eaf3d08326727b5c3fc55dd801f25,Threatview,Threatview
+hash_md5,61d323c45db1d1197ed72a227add99f5,Threatview,Threatview
+hash_md5,6b5dd781cebf2eb6bf482c3c28637a9e,Threatview,Threatview
+hash_md5,7a1d6c969e34ea61b2ea7a714a56d143,Threatview,Threatview
+hash_md5,7a7a99eee3855c2fe0fe0f5c20d0490c,Threatview,Threatview
+hash_md5,7cb9fc5502ccc5e26749998524f354e5,Threatview,Threatview
+hash_md5,850d2ffcae810f6f292a4cda55589e29,Threatview,Threatview
+hash_md5,879959bae0a5c31252fbf5b3fa584291,Threatview,Threatview
+hash_md5,a6ac3b1ec5260ecabf3abed12e5e2d27,Threatview,Threatview
+hash_md5,b3f053dea14be7637a026322b3c07277,Threatview,Threatview
+hash_md5,bc2cb74473cf434a77708c0f771bd04e,Threatview,Threatview
+hash_md5,cff7f718cce65e405b9354a5c28ae1ce,Threatview,Threatview
+hash_md5,da2e396baf23de1881d06dd3377f84a6,Threatview,Threatview
+hash_md5,e791ef0cb3bedbb2ab2a4178259db424,Threatview,Threatview
+hash_md5,e7d72d7dfa1af8430353cf4904eef9f6,Threatview,Threatview
+hash_md5,f5500689bce516defdd61e657df8c890,Threatview,Threatview
+hash_md5,f57975b8bc1169b35ae17b975327195e,Threatview,Threatview
+hash_sha256,1293aa22a718a8940fe6a0b0472a8806b1e00894d4d2a54485c1d9931f29cc8e,Threatview,Threatview
+hash_sha256,1f174bb02bdf4758bfdde788bd581a8ff18378c223321c69ab5c9da8a2b6e342,Threatview,Threatview
+hash_sha256,4645e0bd8e493206af272a24529a0402728fc6a4cb4c66b0bc99ef8ac473ed79,Threatview,Threatview
+hash_sha256,4a1e16d332036052f71225b78e15861eaa7ac6828cec452161cd3459716f69d6,Threatview,Threatview
+hash_sha256,a4f72ce8b5736fe3ca2083cfe21bd51697f12e900e307c357cb8523b8f86e3ec,Threatview,Threatview
+hash_sha256,dbfe1f915f40122a336cd5d0de802a6f3ec0204ab75321934a06dafbc1964446,Threatview,Threatview
+hash_sha256,dc7f2d9b67c1068f5234ad0fc4022b0d34f7ce04be271c0fd7b2e9385a95964c,Threatview,Threatview
+ip_address,104.21.14.92,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,104.21.26.46,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,104.21.36.7,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,104.21.49.126,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,140.82.112.3,Google TI,Suspected Iranian Espionage Group Utilizes Fake Resume Lures on GitHub to Distribute Malware.csv
+ip_address,172.67.135.97,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,172.67.182.173,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+ip_address,185.199.111.133,Google TI,Suspected Iranian Espionage Group Utilizes Fake Resume Lures on GitHub to Distribute Malware.csv
+ip_address,76.76.21.21,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://fliqr.codes/dl/zdujrdjevm/design.doc,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/content,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/ecmd,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/erecv,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/esend,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/get-remote-cmd,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/postinfo,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/send-results,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/submit-results,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://maxisteq.org/upload-results,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://promoverse.org/api/accueil/etat,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://promoverse.org/api/authentification/connexion,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://promoverse.org/api/debut,Google TI,UNC5667 Targets Middle East with Malicious Macro Documents Using New Malware.csv
+url,https://systemsetservices.com/sho/getDateTime,Google TI,Suspected Iranian Espionage Group Utilizes Fake Resume Lures on GitHub to Distribute Malware.csv
