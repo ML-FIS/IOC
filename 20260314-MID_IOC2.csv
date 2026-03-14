@@ -1,0 +1,61 @@
+type,value,source,articlename
+hash_md5,03029a13acbdf78423be5528e21507a3,Threatview,Threatview
+hash_md5,0a2d1917facd568775ee744d180de1a9,Threatview,Threatview
+hash_md5,18cbe55c3b28754916f1cbf4dfc95cf9,Threatview,Threatview
+hash_md5,1ad8693349b53dd62bc9fe9509bfc8f7,Threatview,Threatview
+hash_md5,219084deec1723638853016e5f928106,Threatview,Threatview
+hash_md5,254968ce0d2580e29d593cea18ed793d,Threatview,Threatview
+hash_md5,27fe183f8c4824270a9fc03317f4134b,Threatview,Threatview
+hash_md5,3ee66f56461fc046f600230d11ebe731,Threatview,Threatview
+hash_md5,4e078335669835b915ea6dc1fd436da6,Threatview,Threatview
+hash_md5,5e6eaf3d08326727b5c3fc55dd801f25,Threatview,Threatview
+hash_md5,61d323c45db1d1197ed72a227add99f5,Threatview,Threatview
+hash_md5,6b5dd781cebf2eb6bf482c3c28637a9e,Threatview,Threatview
+hash_md5,6d184529b130e94ab606897aa21a1622,Threatview,Threatview
+hash_md5,7a1d6c969e34ea61b2ea7a714a56d143,Threatview,Threatview
+hash_md5,7a7a99eee3855c2fe0fe0f5c20d0490c,Threatview,Threatview
+hash_md5,7cb9fc5502ccc5e26749998524f354e5,Threatview,Threatview
+hash_md5,850d2ffcae810f6f292a4cda55589e29,Threatview,Threatview
+hash_md5,879959bae0a5c31252fbf5b3fa584291,Threatview,Threatview
+hash_md5,9a95078a7a5f1045c61fe95ab308ec3f,Threatview,Threatview
+hash_md5,a6ac3b1ec5260ecabf3abed12e5e2d27,Threatview,Threatview
+hash_md5,a70e0e057bb9cc33913ca035fb3a1138,Threatview,Threatview
+hash_md5,b3f053dea14be7637a026322b3c07277,Threatview,Threatview
+hash_md5,bc2cb74473cf434a77708c0f771bd04e,Threatview,Threatview
+hash_md5,cff7f718cce65e405b9354a5c28ae1ce,Threatview,Threatview
+hash_md5,da2e396baf23de1881d06dd3377f84a6,Threatview,Threatview
+hash_md5,e791ef0cb3bedbb2ab2a4178259db424,Threatview,Threatview
+hash_md5,e7d72d7dfa1af8430353cf4904eef9f6,Threatview,Threatview
+hash_md5,f5500689bce516defdd61e657df8c890,Threatview,Threatview
+hash_md5,f57975b8bc1169b35ae17b975327195e,Threatview,Threatview
+hash_sha256,1293aa22a718a8940fe6a0b0472a8806b1e00894d4d2a54485c1d9931f29cc8e,Threatview,Threatview
+hash_sha256,1f174bb02bdf4758bfdde788bd581a8ff18378c223321c69ab5c9da8a2b6e342,Threatview,Threatview
+hash_sha256,216459e04bf8f0853b9e66b3bea4a1809cbdf637cc748d96a28d1165a69960aa,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,21779c1ca04a01a58b31d6a2dabaaee4a83d839922535d6520e629699adaf6be,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,21aba2329d9a6f68fdc358c487a54523beb8ee7751ec69779f53df09b14f5e10,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,2b7f7f7d40ec1692cf01583d4f6061b5bfa2fb04ff2e578a5fb01d45f86dd39a,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,2f982f5ead8796391ad8fe61fc2f4c6baf0b93a5a76ed4ffcd6cfc9a1bfe461e,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,4645e0bd8e493206af272a24529a0402728fc6a4cb4c66b0bc99ef8ac473ed79,Threatview,Threatview
+hash_sha256,4a1e16d332036052f71225b78e15861eaa7ac6828cec452161cd3459716f69d6,Threatview,Threatview
+hash_sha256,587fb58e9be44aaef23c3f3f84a29fe5b1ffbc1be92a9b285cda53bf41b582af,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,74e65642b59051a91d9799723275e776a7bb6850babd7b9bc15a1146487e9029,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,8ddb198972096725ee2724c95d3ebe6f4f72437a2705dea28b731e180690ecda,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,9236bdbf151f866cdb0e6d2ec82530fef94b0bc84e7723f578636bf33b7503f3,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,9324e3801a2def5027bb3e7b626bded5698053e932c833479a92754a0fef24cb,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,a32fa6ba08db96ebd611f6ee06da44b419d569a6bac43ed00c68d6ca674004c3,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,a4f72ce8b5736fe3ca2083cfe21bd51697f12e900e307c357cb8523b8f86e3ec,Threatview,Threatview
+hash_sha256,bc51e9658dbd6a75ce7aa2baed56f887b0586acabaa8906d92b7b14c3a56cf49,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+hash_sha256,cbdfe40358533ebcc80b81f7a6c68d36b2dae1384c5a492f133d3a932f73ebe1,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,ce1be9e4b2fd0f3958720f9bc2ae9d545bc0e27dcf1042b64a70f1fc62884610,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,ce7f8725b30dc6f53bbaba1531fa0153aab7a0555fdb48f8b58fc6703579f8ae,Threatview,Threatview
+hash_sha256,dbfe1f915f40122a336cd5d0de802a6f3ec0204ab75321934a06dafbc1964446,Threatview,Threatview
+hash_sha256,dc7f2d9b67c1068f5234ad0fc4022b0d34f7ce04be271c0fd7b2e9385a95964c,Threatview,Threatview
+hash_sha256,dcefa82d7ac6887a253effb54d611e8df15177a993c7d53e453e5ea92f404983,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,e449eae34ae3d0e8af5c881abfe9954b3392ab272c3e56452960bef0b44d54da,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+hash_sha256,e7f86edd00412b5cdc9ccf484b0e00ad04438fbc5b9ee3764aed3d4c79946ab9,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+url,http://196.251.86.145/huna,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+url,http://51.79.214.125/huna2,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+url,http://51.79.214.125/huna3,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+url,https://ajspojfpox564651xckljhan.oss-ap-southeast-7.aliyuncs.com/youdao_X64_pyp_6.1.7.zip,Google TI,Campaign 26.020 - Threat Actor of Unknown Motivation Deploys WINDSTRIKE Malware via Trojanized Software to Establish Persistence and Evade Defenses.csv
+url,https://dl.dropboxusercontent.com/scl/fi/pqiloac8wi9ajnr3v9pgd/Master-Plan-for-Project-Execution-TS.zip?rlkey=o8yyid6btut1cyz84vc2h2ejj&st=rehjmn07&dl=0,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
+url,https://dl.dropboxusercontent.com/scl/fi/znoo098i08dmlevhcfoaq/Detailed_analysis_of_the_project_direction.zip?rlkey=jx9iuciwzr7uq6fq438czrwig&st=nz2drx83&dl=0,Google TI,Campaign 26.015 - Actor of Unknown Motivations Leverages Windows Batch Scripts to Download a Shellcode Injector Tool.csv
