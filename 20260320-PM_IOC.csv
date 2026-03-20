@@ -1,33 +1,100 @@
-﻿"type","value","source","articlename"
-"domain","handala-hack.to","Google TI","FBI seizes Handala data leak site after Stryker cyberattack.csv"
-"domain","nwo.re-v.co.id","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"domain","pressureulcerlawyer.com","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"hash_md5","05aff2b6242e9b2618ade8d34178d46a","Threatview","Threatview"
-"hash_md5","0d0ef17e86a2bcfb97763c54731179a5","Threatview","Threatview"
-"hash_md5","1bfed54ae970308843d0e55ee96eddd9","Threatview","Threatview"
-"hash_md5","30b29b341a047ac893ad47db957568fd","Threatview","Threatview"
-"hash_md5","32ecfbb0febed7d29d20d98cbfeb8513","Threatview","Threatview"
-"hash_md5","3be1c888015bf4f8d145efcd0f103d57","Threatview","Threatview"
-"hash_md5","3c553b52c0e537a88cc3f0be1a9447a7","Threatview","Threatview"
-"hash_md5","3f4a531846d34399f7c61f0ca4f5bd03","Threatview","Threatview"
-"hash_md5","4165b7e179b580c22f651e72dfcacdd2","Threatview","Threatview"
-"hash_md5","5a57584cfec7f8dc2a9e23bfebbfb622","Threatview","Threatview"
-"hash_md5","63470692208251573974878282631313","Threatview","Threatview"
-"hash_md5","7a7a99eee3855c2fe0fe0f5c20d0490c","Threatview","Threatview"
-"hash_md5","8159845a1821df1e5067703af2fa0fb8","Threatview","Threatview"
-"hash_md5","843fe7789abd59de779c9fc3e559bce2","Threatview","Threatview"
-"hash_md5","961164cfefd0837372869a055693fe3b","Threatview","Threatview"
-"hash_md5","ae3cc73feb8309699c65213f8c1fce28","Threatview","Threatview"
-"hash_md5","ccc69a9fce51dbfd8c4847ed20387971","Threatview","Threatview"
-"hash_sha256","17fe715f3819baa851126d52af8b70c0016bf9288b0b0ebbc3715053973739e4","Threatview","Threatview"
-"hash_sha256","2beab606cc5c146b3480b001bbfa2125938332e3c3d5d5337fa2cb6f385a5223","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"hash_sha256","60171e71774630b9f5c824e2a4ee4742aff1461e0c1910395430ba1592c469cd","Threatview","Threatview"
-"hash_sha256","697297c9442af27d6f0257c8761660f2945e4303d8c840f3e5a6df6698d98e27","Threatview","Threatview"
-"hash_sha256","f12f312b57118cdf7f1db6db354c83149fb344d20998c7a24eb6aac224441820","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"ip_address","44.252.85.168","Google TI","Linux & Cloud Detection Engineering - TeamPCP Container Attack Scenario — Elastic Security Labs.csv"
-"ip_address","67.217.57.240","Google TI","Linux & Cloud Detection Engineering - TeamPCP Container Attack Scenario — Elastic Security Labs.csv"
-"url","http://44.252.85.168:666/files/kube.py","Google TI","Linux & Cloud Detection Engineering - TeamPCP Container Attack Scenario — Elastic Security Labs.csv"
-"url","http://67.217.57.240:666/files/proxy.sh","Google TI","Linux & Cloud Detection Engineering - TeamPCP Container Attack Scenario — Elastic Security Labs.csv"
-"url","http://pressureulcerlawyer.com/curl/a66e5b9fda4fe269b1c75a5a07d57824099e940a1e59a6964abddae17e444ee3","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"url","http://pressureulcerlawyer.com/curl/a66e5b9fda4fe269b1c75a5a07d57824099e940a1e59a6964abddae17e444ee3%60","Google TI","Intelligence Insights March 2026  Red Canary.csv"
-"url","http://update.aegis.aliyun.com/download/uninstall.sh","Google TI","Linux & Cloud Detection Engineering - TeamPCP Container Attack Scenario — Elastic Security Labs.csv"
+﻿type,value,source,articlename
+domain,2-1-9.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,6fec2cd5e023fd23.brambleufer.ru,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,brambleufer.ru,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,browser-updater.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,browser-updater.live,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,cherryberry.click,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,download.last-verison.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,download-version.2-1-9.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,e5.malaymoil.com,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+domain,ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,handala-hack.to,Google TI,FBI takes down leak sites tied to Iran’s Ministry of Intelligence and Security.csv
+domain,handala-redwanted.to,Google TI,FBI takes down leak sites tied to Iran’s Ministry of Intelligence and Security.csv
+domain,initialize-configs.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,kolonialeru.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,last-verison.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,last-version.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,ms-global.first-update-server.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,ms-server-default.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,ms-sql-auth.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,newest-version.com,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+domain,os-update-server.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,os-update-server.live,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,os-update-server.org,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,os-update-server.top,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,sahibndn.io,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+domain,sclair.it.com,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+domain,snapshare.chat,Google TI,Spyware tool targets iPhones with 6 critical iOS flaws.csv
+domain,sqwas.shapelie.com,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+domain,static.cdncounter.net,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+hash_md5,027346a7bf701a3c25bc2493d86c9181,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_md5,05aff2b6242e9b2618ade8d34178d46a,Threatview,Threatview
+hash_md5,0d0ef17e86a2bcfb97763c54731179a5,Threatview,Threatview
+hash_md5,1bfed54ae970308843d0e55ee96eddd9,Threatview,Threatview
+hash_md5,30b29b341a047ac893ad47db957568fd,Threatview,Threatview
+hash_md5,32ecfbb0febed7d29d20d98cbfeb8513,Threatview,Threatview
+hash_md5,3be1c888015bf4f8d145efcd0f103d57,Threatview,Threatview
+hash_md5,3c553b52c0e537a88cc3f0be1a9447a7,Threatview,Threatview
+hash_md5,3f4a531846d34399f7c61f0ca4f5bd03,Threatview,Threatview
+hash_md5,4165b7e179b580c22f651e72dfcacdd2,Threatview,Threatview
+hash_md5,54562bd71d5e0d025297b25d4cacb384,Threatview,Threatview
+hash_md5,57efe82586a9a389e798a6af34830cb9,Threatview,Threatview
+hash_md5,5800554b88f0c457bfde1d2539a61d04,Threatview,Threatview
+hash_md5,5a57584cfec7f8dc2a9e23bfebbfb622,Threatview,Threatview
+hash_md5,5ce53d4186e2e72748f103e91724d3dc,Threatview,Threatview
+hash_md5,7a7a99eee3855c2fe0fe0f5c20d0490c,Threatview,Threatview
+hash_md5,8159845a1821df1e5067703af2fa0fb8,Threatview,Threatview
+hash_md5,843fe7789abd59de779c9fc3e559bce2,Threatview,Threatview
+hash_md5,961164cfefd0837372869a055693fe3b,Threatview,Threatview
+hash_md5,ae3cc73feb8309699c65213f8c1fce28,Threatview,Threatview
+hash_md5,b6844995ab212bf107164286fe0955a4,Threatview,Threatview
+hash_md5,c0dc67a629b840bdccc821ff79b88c2c,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+hash_md5,cbf38082fcc1a92a366d2e43f68bfd84,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_md5,ccc69a9fce51dbfd8c4847ed20387971,Threatview,Threatview
+hash_md5,e6ac307159c5d1ed41d960ad493b0261,Threatview,Threatview
+hash_md5,fa4cee65cc0650d465b2bd0ef8a77c14,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha1,2bbc5497a86548424e1a5e7af11e13774ad0d9ff,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha1,4dfa904f5496a530b84f048c8b537166ad139602,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha1,69cc60a53b6d1f3c726918777fe7f2c5696f3ef6,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+hash_sha1,a080c0cc1182b693412e0a56bcbfafd36b2ab70f,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,00ae785201e85b2412251cfa7712334a043cac73105ae82a26546a98ad1f0b38,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,12b5974782289e6aaadf2df8088499792d79ab91325d4abc57b0383b94d67439,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,17fe715f3819baa851126d52af8b70c0016bf9288b0b0ebbc3715053973739e4,Threatview,Threatview
+hash_sha256,26d8dc717f972f6afbe24a149942d9f9049a276682b0ce9c5141a23e3a69036c,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,2e5a56beb63f21d9347310412ae6efb29fd3db2d3a3fc0798865a29a3c578d35,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+hash_sha256,3223d48d091891d290989b01aa3c7b50fca2f013de02e8e1cc95c2400e4d453e,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,3bf13460f531011b17e1618f0a64117c22e3f16d26aeb10dbb94ac5267206823,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,60171e71774630b9f5c824e2a4ee4742aff1461e0c1910395430ba1592c469cd,Threatview,Threatview
+hash_sha256,697297c9442af27d6f0257c8761660f2945e4303d8c840f3e5a6df6698d98e27,Threatview,Threatview
+hash_sha256,6f5842b3b717651d942bb4e7f9eb6ecc31290f4a1fd803f7e56ce51dfd15367b,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+hash_sha256,7ceba48bb199a1cf4bd73556d93de34f5e6ddceb967d567b5f285355de9eff7b,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,8c505524550e105be89ce6f8d70910cb06b2851bd96e4b1283b66f4dd82519ae,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,929f17022a9c1f4a032c7a0eee26ca26ca9af13bd075916a9a17bf17aa74dc29,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,c2893502d8198f611d6ad864d31232b85316f99bce7501cd1c72232ecbe0ae72,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,cedcc65d50ac1e80066c53847c4d21b2f13956b210d02e47ff68f4d5a2732277,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,d146f589f79142faf84cc3207292520d3805f234cc5d75fc4433646984f073a4,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,f827fce910cb4cbb4be45648d55bcaf793cc01bf7d5d103a80616ba1ca4a5fce,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+hash_sha256,fdf84e67045e43b4fb4b0a65d60f348e4b8a10480f792256ac1111a070823d82,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+ip_address,144.172.110.106,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,144.172.94.59,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,188.245.41.78,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,199.217.98.153,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,199.217.99.121,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,206.251.239.164,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,37.27.244.222,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,62.72.21.10,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+ip_address,72.60.98.48,Google TI,The Proliferation of DarkSword iOS Exploit Chain Adopted by Multiple Threat Actors.csv
+ip_address,89.46.237.33,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+ip_address,95.217.22.175,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+url,http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/chat.php,Google TI,Ransomware Gang Exploits Cisco Flaw in Zero-Day Attacks Since January.csv
+url,https://155cd68f7524e830.brambleufer.ru/notebk-91267b64-989f-49b4-89b4-984e0154d4d5,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://5d68c0521e7bb9df.brambleufer.ru/notebk-91267b64-989f-49b4-89b4-984e0154d4d5,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://6983b8af579f5e31.brambleufer.ru/notebk-91267b64-989f-49b4-89b4-984e0154d4d5,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://b171f5404b8a31bd.brambleufer.ru/notebk-91267b64-989f-49b4-89b4-984e0154d4d5,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://b6e4e8b3542c2807.brambleufer.ru/notebk-91267b64-989f-49b4-89b4-984e0154d4d5,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://download.last-verison.com/notebooklm,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://download.last-version.com/claude,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://download.newest-version.com/notebooklm,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://download-version.2-1-9.com/claude,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
+url,https://download-version.2-1-9.com/notebooklm,Google TI,Threat Actor of Unknown Motivations utilizes MSHTA and Obfuscated PowerShell Leading to Amatera Infostealer.csv
