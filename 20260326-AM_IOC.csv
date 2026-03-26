@@ -1,0 +1,74 @@
+﻿type,value,source,articlename
+domain,93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,e598292a5fbd.ngrok-free.app,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,icp0.io,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+domain,jiijua.com,Google TI,Warning Cybercriminals use typos in domain names to distribute malware. Example – Telegram messenger.csv
+domain,nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,oast.live,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,oast.site,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+domain,www.tejlegram.com,Google TI,Warning Cybercriminals use typos in domain names to distribute malware. Example – Telegram messenger.csv
+domain,www.telefgram.com,Google TI,Warning Cybercriminals use typos in domain names to distribute malware. Example – Telegram messenger.csv
+domain,www.telegrgam.com,Google TI,Warning Cybercriminals use typos in domain names to distribute malware. Example – Telegram messenger.csv
+hash_md5,150406e02046742ee2d6c7eacf0f53c6,Threatview,Threatview
+hash_md5,24618ce4ce9f2976cd9159cd5fe2a8b8,Threatview,Threatview
+hash_md5,2aa3db7deeec7493846b28be834bdc8d,Threatview,Threatview
+hash_md5,2e75e109184a7f6473258bf00440bfd0,Threatview,Threatview
+hash_md5,2ef491cb476066ee57d74ec8f6ed01f7,Threatview,Threatview
+hash_md5,301e257e8ffb69bc2b3a7040053b9a8e,Threatview,Threatview
+hash_md5,3ee66f56461fc046f600230d11ebe731,Threatview,Threatview
+hash_md5,4581ab19daebfd2e96962645e798b6fa,Threatview,Threatview
+hash_md5,4f425aaa5522e239617149305084f9f6,Threatview,Threatview
+hash_md5,4f7efe9c2cf67cef5f96594b28acd3b8,Threatview,Threatview
+hash_md5,58bdf783da4c627d2f13612a09a9b5a8,Threatview,Threatview
+hash_md5,6a69cabec4f469054f7a46ed9ba979f8,Threatview,Threatview
+hash_md5,6d532b12105b49bd96b29361979b87a1,Threatview,Threatview
+hash_md5,6f3b51b1d9fb1795aa5b1d79113db3f7,Threatview,Threatview
+hash_md5,829ee47ef58cbb6233b78eb1911b6c69,Threatview,Threatview
+hash_md5,86b4781b1ad041a3696df2efb269718f,Threatview,Threatview
+hash_md5,9a95078a7a5f1045c61fe95ab308ec3f,Threatview,Threatview
+hash_md5,a70e0e057bb9cc33913ca035fb3a1138,Threatview,Threatview
+hash_md5,b676c0703f8e4d6a198aa370ca4f5405,Threatview,Threatview
+hash_md5,d6296ad786e76b2dd1d7e6de897491d4,Threatview,Threatview
+hash_md5,eafaba7898e149895b36ee488e3d579c,Threatview,Threatview
+hash_md5,f57975b8bc1169b35ae17b975327195e,Threatview,Threatview
+hash_sha1,b2286bd03c73e76f930941af9fcfc59d92a64fc4,Threatview,Threatview
+hash_sha256,055ce8476ae9079d0ab8a2b99a65040536114384a1a999e1963ca3840174c04b,Threatview,Threatview
+hash_sha256,0880819ef821cff918960a39c1c1aada55a5593c61c608ea9215da858a86e349,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,17fe715f3819baa851126d52af8b70c0016bf9288b0b0ebbc3715053973739e4,Threatview,Threatview
+hash_sha256,18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,245bdaade5b52354ea562b1df578360bac31fdef86ecc321e18d208b7602bf51,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,3a6f715d09cdf1fc7f240a5e5e98b24716b5964fb157115f5fe591353e35a0b1,Threatview,Threatview
+hash_sha256,4291da6d5461c51ff0f852ca40a557739e955667df66c359cb0952542bb796b2,Threatview,Threatview
+hash_sha256,5be62bc8ef514d7d0771bec6c969aabd95c41b1b4beb3da04e5492038a269ad9,Threatview,Threatview
+hash_sha256,6328a34b26a63423b555a61f89a6a0525a534e9c88584c815d937910f1ddd538,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,8a2a05fd8bdc329c8a86d2d08229d167500c01ecad06e40477c49fb0096efdea,Threatview,Threatview
+hash_sha256,a567d09b15f6e4440e70c9f2aa8edec8ed59f53301952df05c719aa3911687f9,Threatview,Threatview
+hash_sha256,c330b6fcdec76a447c73e7a7b3c97d49641d2d09d4286a8be246a07833e83452,Threatview,Threatview
+hash_sha256,c369df262b5c786b950a0e412cd93a9da9a22e0048dcc8ff88197a3f3d2266e5,Threatview,Threatview
+hash_sha256,c5267fefaac1764eba5f42681eb216f146b7d18fcbf546275d33e70cb36fdfba,Threatview,Threatview
+hash_sha256,f7084b0229dce605ccc5506b14acd4d954a496da4b6134a294844ca8d601970d,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+ip_address,107.173.231.201,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,130.94.41.206,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,138.226.247.241,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,152.32.173.138,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,185.173.235.232,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,192.242.184.234,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,193.242.184.234,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,198.13.158.58,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,23.227.199.80,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,23.236.116.77,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+ip_address,27.50.59.77,Google TI,Warning Cybercriminals use typos in domain names to distribute malware. Example – Telegram messenger.csv
+ip_address,3.134.39.220,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+ip_address,3.14.182.203,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+ip_address,64.7.199.177,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,86.106.143.200,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+ip_address,91.193.19.12,Google TI,Actor with Unknown Motivations Exploits Ivanti EPMM to Deploy MISTBRICK Malware.csv
+url,http://152.32.173.138/U26d86f1899513347.5b5b0c1b,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+url,http://64.7.199.177:10882,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+url,http://93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+url,http://hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+url,https://e598292a5fbd.ngrok-free.app/204.251.198.205/443,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
+url,https://tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+url,https://zeetcckhtudizieudqyck5o4ez16y973h.oast.fun/93.187.56.19,Google TI,Threat Actor of Unknown Motivations Exploits Ivanti EPMM CVE-2026-1281 and CVE-2026-1340 for Initial Access.csv
