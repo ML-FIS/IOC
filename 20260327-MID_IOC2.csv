@@ -1,0 +1,64 @@
+﻿type,value,source,articlename
+hash_md5,0cc58cd661274888bf09b11d322a18cd,Threatview,
+hash_md5,150406e02046742ee2d6c7eacf0f53c6,Threatview,
+hash_md5,24618ce4ce9f2976cd9159cd5fe2a8b8,Threatview,
+hash_md5,26f886180fadb14563bf0f070faf6c24,Threatview,
+hash_md5,2aa3db7deeec7493846b28be834bdc8d,Threatview,
+hash_md5,2e75e109184a7f6473258bf00440bfd0,Threatview,
+hash_md5,2ef491cb476066ee57d74ec8f6ed01f7,Threatview,
+hash_md5,301e257e8ffb69bc2b3a7040053b9a8e,Threatview,
+hash_md5,3ee66f56461fc046f600230d11ebe731,Threatview,
+hash_md5,4581ab19daebfd2e96962645e798b6fa,Threatview,
+hash_md5,4f425aaa5522e239617149305084f9f6,Threatview,
+hash_md5,4f7efe9c2cf67cef5f96594b28acd3b8,Threatview,
+hash_md5,58bdf783da4c627d2f13612a09a9b5a8,Threatview,
+hash_md5,620221e4c78e8df6f0ce4d489c15dffb,Threatview,
+hash_md5,6a69cabec4f469054f7a46ed9ba979f8,Threatview,
+hash_md5,6d532b12105b49bd96b29361979b87a1,Threatview,
+hash_md5,6f3b51b1d9fb1795aa5b1d79113db3f7,Threatview,
+hash_md5,829ee47ef58cbb6233b78eb1911b6c69,Threatview,
+hash_md5,86b4781b1ad041a3696df2efb269718f,Threatview,
+hash_md5,8b638f694f4d3ad045ac2528825f39d4,Threatview,
+hash_md5,9203d7c0dec91c32ae34b46e3c73e46e,Threatview,
+hash_md5,9a95078a7a5f1045c61fe95ab308ec3f,Threatview,
+hash_md5,a70e0e057bb9cc33913ca035fb3a1138,Threatview,
+hash_md5,b57299c00a0991036a96ab4bf5928134,Threatview,
+hash_md5,b676c0703f8e4d6a198aa370ca4f5405,Threatview,
+hash_md5,d6296ad786e76b2dd1d7e6de897491d4,Threatview,
+hash_md5,deac8223ed9fc5e0a9adbc01abbe30cb,Threatview,
+hash_md5,eafaba7898e149895b36ee488e3d579c,Threatview,
+hash_md5,f206d9cc12fe4ca429426e1316f437f2,Threatview,
+hash_md5,f57975b8bc1169b35ae17b975327195e,Threatview,
+hash_sha1,b2286bd03c73e76f930941af9fcfc59d92a64fc4,Threatview,
+hash_sha256,055ce8476ae9079d0ab8a2b99a65040536114384a1a999e1963ca3840174c04b,Threatview,
+hash_sha256,0bc588fd9c0a946ac513158be916524281ce6cce05133d4848641a8877739c78,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,17fe715f3819baa851126d52af8b70c0016bf9288b0b0ebbc3715053973739e4,Threatview,
+hash_sha256,1b2c0c2fe3167942b92556d66652d540b6bc3ca800b471b07cfc06488d79533f,Google TI,Elastic Security Labs uncovers BRUSHWORM and BRUSHLOGGER.csv
+hash_sha256,39df0ae87645dac6fe860178fe2d66d3e88505dedd1e32ae24255b31143c690e,Threatview,
+hash_sha256,3a6f715d09cdf1fc7f240a5e5e98b24716b5964fb157115f5fe591353e35a0b1,Threatview,
+hash_sha256,4291da6d5461c51ff0f852ca40a557739e955667df66c359cb0952542bb796b2,Threatview,
+hash_sha256,438acbee0c9e3199fe521acee6fe86f2b9b7856589c042fac800a575f01d772c,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,4b29b74798a4e6538f2ba245c57be82953383dc91fe0a91b984b903d12043e92,Google TI,"Hackers Use USB Malware, RATs, and Stealers in Espionage Attacks on Southeast Asian Government.csv"
+hash_sha256,4f1ea5ed6035e7c951e688bd9c2ec47a1e184a81e9ae783d4a0979501a1985cf,Google TI,Elastic Security Labs uncovers BRUSHWORM and BRUSHLOGGER.csv
+hash_sha256,5be62bc8ef514d7d0771bec6c969aabd95c41b1b4beb3da04e5492038a269ad9,Threatview,
+hash_sha256,73417b95fa956729bacae9dd6cd2cd706cc6c6a56fdf0aed4a02187e6f64b0e6,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,89891aa3867c1a57512d77e8e248d4a35dd32e99dcda0344a633be402df4a9a7,Google TI,Elastic Security Labs uncovers BRUSHWORM and BRUSHLOGGER.csv
+hash_sha256,8a2a05fd8bdc329c8a86d2d08229d167500c01ecad06e40477c49fb0096efdea,Threatview,
+hash_sha256,90a1dcf0656067249b88e9d8ea05e8a3d61fef45d040cc3ee3692ede7b68d190,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,a567d09b15f6e4440e70c9f2aa8edec8ed59f53301952df05c719aa3911687f9,Threatview,
+hash_sha256,aaf4796cd2297cd5b3bd917fd1a1650b04502de1485e4b19e58a26df54739ce2,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,ad77ac69bf61dad4a9973d7a2126af0f8a89caf35ea191d7cfd6d9e4d31a0f4d,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,c330b6fcdec76a447c73e7a7b3c97d49641d2d09d4286a8be246a07833e83452,Threatview,
+hash_sha256,c369df262b5c786b950a0e412cd93a9da9a22e0048dcc8ff88197a3f3d2266e5,Threatview,
+hash_sha256,c5267fefaac1764eba5f42681eb216f146b7d18fcbf546275d33e70cb36fdfba,Threatview,
+hash_sha256,d691c11306c136027e1b04a48fce3e3025317bef485445067db07e558b37397f,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,db995292acec7b21b44a276d0f13fb09b261a38f07cbfc08339b332dc89f6dcf,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+hash_sha256,ecbeaa13921dbad8028d29534c3878503f45a82a09cf27857fa4335bd1c9286d,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+url,http://83.142.209.203:8080/,Google TI,TeamPCP Compromises Telnyx Python SDK to Deliver Credential-....csv
+url,http://83.142.209.203:8080/hangup.wav,Google TI,TeamPCP Compromises Telnyx Python SDK to Deliver Credential-....csv
+url,http://83.142.209.203:8080/ringtone.wav,Google TI,TeamPCP Compromises Telnyx Python SDK to Deliver Credential-....csv
+url,http://app-metrics-cdn.com/api/listener/heartbeat,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+url,http://app-metrics-cdn.com/api/upload,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+url,http://app-metrics-cdn.com/api/upload-complete,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+url,http://app-metrics-cdn.com/api/upload-json,Google TI,"Bogus Avast website fakes virus scan, installs Venom Stealer instead.csv"
+url,https://resources.dawnnewsisl.com/updtdll,Google TI,Elastic Security Labs uncovers BRUSHWORM and BRUSHLOGGER.csv
