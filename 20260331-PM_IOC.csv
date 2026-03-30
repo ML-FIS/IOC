@@ -1,0 +1,26 @@
+﻿type,value,source,articlename
+domain,checkmarx.zone,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+domain,delivrto.me,Google TI,WASM as a BYOI Target.csv
+domain,fixyourallergywithus.com,Google TI,Financial Crime Actor Deploys TURTLESHELL to Exfiltrate Host Data and Cryptocurrency Wallets.csv
+domain,fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion,Google TI,Ransom! Efficy - 43gb leaked (MAR-2026).csv
+domain,models.litellm.cloud,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+hash_md5,484cb1752a4e1af36db24eb1f5a8a126,Threatview,Threatview
+hash_md5,4c74d7e5471c188e2705d74dd7404665,Threatview,Threatview
+hash_md5,571f9b16e265f1ebb73059ead978a369,Threatview,Threatview
+hash_md5,5b17494aec527acfa9a78a51ec2eb836,Threatview,Threatview
+hash_md5,5c9adcf312d5ce8d7c3742ca8099d8a1,Threatview,Threatview
+hash_md5,8e51b080449374b77553860c97c9ef48,Threatview,Threatview
+hash_md5,aae3093cffee780ce2f811331b66fe1a,Threatview,Threatview
+hash_sha256,02368c6b62cb392dddd35cfc6cb8c1154f7ebdceb9fb559cefc301982d6fbbf9,Threatview,Threatview
+hash_sha256,7290353a3bc2b18e9ea574d3294b09e28edaa6b038285bb101cf09760f187dcd,Threatview,Threatview
+ip_address,83.142.209.203,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+url,http://83.142.209.203:8080,Google TI,The Telnyx PyPI Compromise and the 2026 TeamPCP Supply Chain Attacks  Akamai.csv
+url,http://83.142.209.203:8080/hangup.wav,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+url,http://83.142.209.203:8080/ringtone.wav,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+url,https://83.142.209.203:8080,Google TI,The Telnyx PyPI Compromise and the 2026 TeamPCP Supply Chain Attacks  Akamai.csv
+url,https://8duf40o9axkvvdl1l2q1p724zyezzldpmzsqix.pages.dev/GzjZmZF6KozNRWdImDtfjqNvw6LPYaqmDBCVF8LKfeJADXlQX247ehtMR6ci69hdx.aspx,Google TI,Financial Crime Actor Deploys TURTLESHELL to Exfiltrate Host Data and Cryptocurrency Wallets.csv
+url,https://checkmarx.zone/raw,Google TI,TeamPCP’s Telnyx Attack Marks a Shift in Tactics Beyond LiteLLM.csv
+url,https://files.delivrto.me/test.webc,Google TI,WASM as a BYOI Target.csv
+url,https://fixyourallergywithus.com/api/grabber,Google TI,Financial Crime Actor Deploys TURTLESHELL to Exfiltrate Host Data and Cryptocurrency Wallets.csv
+url,https://fixyourallergywithus.com/api/log,Google TI,Financial Crime Actor Deploys TURTLESHELL to Exfiltrate Host Data and Cryptocurrency Wallets.csv
+url,https://g16jfs71e70t5oz5dnhwpg02wjrxgivuvjc0p.pages.dev/txEiG91jwOP4LirapYh8YoKEpJan5uZigZKKYEdyGYcz2ReeCiLsQhL8JIzx57ztOvrwEHvuJRB0H77.aspx,Google TI,Financial Crime Actor Deploys TURTLESHELL to Exfiltrate Host Data and Cryptocurrency Wallets.csv
