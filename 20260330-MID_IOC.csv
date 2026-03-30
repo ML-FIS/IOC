@@ -1,0 +1,37 @@
+﻿type,value,source,articlename
+domain,checkmarx.zone,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+domain,hackmoltrepeat.com,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+domain,icp0.io,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+domain,scan.aquasecurtiy.org,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_md5,484cb1752a4e1af36db24eb1f5a8a126,Threatview,Threatview
+hash_md5,4c74d7e5471c188e2705d74dd7404665,Threatview,Threatview
+hash_md5,571f9b16e265f1ebb73059ead978a369,Threatview,Threatview
+hash_md5,5b17494aec527acfa9a78a51ec2eb836,Threatview,Threatview
+hash_md5,5c9adcf312d5ce8d7c3742ca8099d8a1,Threatview,Threatview
+hash_md5,8e51b080449374b77553860c97c9ef48,Threatview,Threatview
+hash_md5,aae3093cffee780ce2f811331b66fe1a,Threatview,Threatview
+hash_sha256,0880819ef821cff918960a39c1c1aada55a5593c61c608ea9215da858a86e349,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,1c70d4280835f18654422cec1b209eec856f90344b8f02afca82716555346a55,Google TI,Pay2Key Ransomware Deployed Against US Medical Institution.csv
+hash_sha256,245bdaade5b52354ea562b1df578360bac31fdef86ecc321e18d208b7602bf51,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,31054fb826b57c362cc0f0dbc8af15b22c029c6b9abeeee9ba8d752f3ee17d7d,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,6328a34b26a63423b555a61f89a6a0525a534e9c88584c815d937910f1ddd538,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,6b8dc784db823b19ef73af9d54265e969b5e1039b917b5ce54c1def5f662b610,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,6cf223aea68b0e8031ff68251e30b6017a0513fe152e235c26f248ba1e15c92a,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,7290353a3bc2b18e9ea574d3294b09e28edaa6b038285bb101cf09760f187dcd,Threatview,Threatview
+hash_sha256,79d8237f909f0ecf889124dd906a9765a41331ccda0abeaa5d5f31723be37b07,Google TI,Traffic Provider That Supports UNC1543 Operations Leverages Etherhiding in Operations.csv
+hash_sha256,7d2c9b4a3942f6029d2de7f73723b505b64caa8e1763e4eb1f134360465185d0,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,8eaf4c4d0b82620bcda29b97896e2da0a754205c035721479f7ceafb817e4466,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,9f23af419bc2d1e283705a6e21d53ef02aa6b31edf7d6a1ac31d62fef990e243,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,a0d229be8efcb2f9135e2ad55ba275b76ddcfeb55fa4370e0a522a5bdee0120b,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,a4e9827e42179274b633290df698622cfe8b094cd54958f9cb6c4af21102a4af,Google TI,Traffic Provider That Supports UNC1543 Operations Leverages Etherhiding in Operations.csv
+hash_sha256,a8bfa1389c49836264cfa31fc4410b88897a78d9c2152729d28eca8c12171b9e,Google TI,Pay2Key Ransomware Deployed Against US Medical Institution.csv
+hash_sha256,ae988c203aee5285260ea82eed47c731c2a16c04d914e0026d90e9283a3d8302,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,bb470a803b6d7b12fb596d2e4a18ea9ca91f40fd34ded7f01a487eed9a1d814d,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,ce681356c8870af8583ed753fff330e2897f4629c45677f8065649a47b20a111,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,d6fc0ff06978742a2ef789304bcdbe69a731693ad066a457db0878279830d6a9,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+hash_sha256,f7084b0229dce605ccc5506b14acd4d954a496da4b6134a294844ca8d601970d,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
+hash_sha256,fa80a1e458cb1e07e0562a725b691a1314b0f2407403c54f6bd8c9ef9e010996,Google TI,Updated Threat Actor 'pryx' Claims to Work with 'TeamPCP' and Plans to Leverage the Trivy Compromise for VECTORLOCK Ransomware Deployment.csv
+url,https://api.lurkyclipymer.com/8mEdrGPYNXs3k3B7,Google TI,Traffic Provider That Supports UNC1543 Operations Leverages Etherhiding in Operations.csv
+url,https://medium.exathomeswebuytexas.com/RWnshz5Lj+4hS9a1c1rApTdL1qUvD876,Google TI,Traffic Provider That Supports UNC1543 Operations Leverages Etherhiding in Operations.csv
+url,https://tdtqy-oyaaa-aaaae-af2dq-cai.raw.icp0.io/,Google TI,TeamPCP Compromises Aqua Security GitHub Actions in Supply Chain Attack.csv
