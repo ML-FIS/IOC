@@ -1,46 +1,82 @@
-﻿type,value,source,articlename
-url,http://sfrclak.com:8000,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-url,http://sfrclak.com:8000/6202033,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-url,https://checkmarx.zone/raw,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-url,https://checkmarx.zone/raw/tmp/pglog,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-url,https://checkmarx.zone/static/checkmarx-util-1.0.4.tgz,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-url,https://models.litellm.cloud,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-ip_address,142.11.206.73,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-ip_address,169.150.227.146,Google TI,Iran-Nexus Actors Conduct Password Spraying Campaign Against Middle Eastern M365 Environments.csv
-ip_address,185.191.204.202,Google TI,Iran-Nexus Actors Conduct Password Spraying Campaign Against Middle Eastern M365 Environments.csv
-ip_address,185.191.204.203,Google TI,Iran-Nexus Actors Conduct Password Spraying Campaign Against Middle Eastern M365 Environments.csv
-ip_address,23.254.167.216,Google TI,CrowdStrike atribui a norte-coreanos o ataque ao Axios.csv
-ip_address,23.254.203.244,Google TI,CrowdStrike atribui a norte-coreanos o ataque ao Axios.csv
-ip_address,45.148.10.212,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-ip_address,46.151.182.203,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-ip_address,83.142.209.11,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,4465bdeaddc8c049a67a3d5ec105b2f07dae72fa080166e51b8f487516eb8d07,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,506690fcbd10fbe6f2b85b49a1fffa9d984c376c25ef6b73f764f670e932cab4,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,617b67a8e1210e4fc87c92d1d1da45a2f311c08d26e89b12307cf583c900d101,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,6cf223aea68b0e8031ff68251e30b6017a0513fe152e235c26f248ba1e15c92a,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,74ad967905a946b0abcd5217505fb7cadcc8c652fa6def1d43f1468adbb7fa36,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,822dd269ec10459572dfaaefe163dae693c344249a0161953f0d5cdd110bd2a0,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,8a619035b03ca934ca75d205f67d5b245c359bbd14733a0586cec7384912d0d0,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,8c8f5f095d65d3f33ce89a77dfbe84a79bb29d2e0073a57a23dcc014d0683c2e,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,8eaf4c4d0b82620bcda29b97896e2da0a754205c035721479f7ceafb817e4466,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,98098b3dd6f7541a29ff65140f3ea9bf17b7bbbe2a1f3666db6ec91a3efb17bd,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,b219ce2263c913655269946b884c38ee3dc577a7f1221d4524f2b2bceb1f55ad,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,bc1fdc9f1bb112d906a46d6ea896d8f4a159beb7e0930d9d123a94c7ecec40ef,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,d6fc0ff06978742a2ef789304bcdbe69a731693ad066a457db0878279830d6a9,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,ea30ba8ebd600f8ddf09d3b411d617b173db57c02f1eb204f8620d8023d4ac2e,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,ed8560c1ac7ceb6983ba995124d5917dc1a00288912387a6389296637d5f815c,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,f4d47b91cbae61bb39604ae684a1124773a91a545040871adde78637c015c873,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,f7084b0229dce605ccc5506b14acd4d954a496da4b6134a294844ca8d601970d,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-hash_sha256,f7d335205b8d7b20208fb3ef93ee6dc817905dc3ae0c10a0b164f4e7d07121cd,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-hash_sha256,fcb81618bb15edfdedfb638b4c08a2af9cac9ecfa551af135a8402bf980375cf,Google TI,North Korea-Nexus State Financial Gain Actor Conducts Supply Chain Attack via Compromised Axios NPM Package to Deploy Backdoor.csv
-domain,aquasecurtiy.org,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-domain,checkmarx.zone,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-domain,litellm.cloud,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-domain,models.litellm.cloud,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-domain,scan.aquasecurtiy.org,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
-domain,sfrclak.com,Google TI,CrowdStrike atribui a norte-coreanos o ataque ao Axios.csv
-domain,www.checkmarx.zone,Google TI,Actor of Unknown Motivations Leverages Supply Chain Compromise for Cloud Credential Theft and Exfiltration.csv
+﻿"type","value","source","articlename"
+"domain","scan.aquasecurtiy.org","Google TI","Trivy, KICS, LiteLLM TeamPCP highlights software supply chain vulnerabilities LeMagIT.csv"
+"domain","sfrclak.com","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","01cef49c186afc4fac91f531a3199fba","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","04e3073b3cd5c5bfcde6f575ecf6e8c1","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","0ac11678e0d83e232dfcf826bee28462","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","15a0ac4efd5292fd7b5b5ef21c49c2c2","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","27b788e2f93c290c06af66ed09f003e3","Google TI","Unknown Actor of Unknown Motivations Uses LotL Tools and SSH Reverse Tunnels for Persistence and Execution.csv"
+"hash_md5","2b6989231cdae585e66994268b15d609","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","31c2ed150ab16d65ec2598e48ad975b0","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","433331fe1a3ff11ea362fc772b67da38","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","5621da32d674128dd62bc12e938a53c3","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","67cad9e039a4b44e7e19164912876645","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","6d37705d00bc7a54f2363681490c9698","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","7658962ae060a222c0058cd4e979bfa1","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","7916e108de9427d48838eda7724de19f","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","7a9ddef00f69477b96252ca234fcbeeb","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","80d52999032325876d68cda01eb634db","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","90e8e227ba8bef0ea7e0212b5b1e0d4c","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","964540e24c4e2e048e4600e5f590bf96","Google TI","Stranger Strings Yurei Ransomware Operator Toolkit Exposed.csv"
+"hash_md5","964fd97bba3d59a86c3f87ab474eb1be","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","9663665850cdd8fe12e30a671e5c4e6f","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_md5","9fdc55f6d38bbc20326a8aabcd55d3f3","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","b58afccd56d45bc1cf50d49eb9c73c9d","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","b8543a22433ead21175e5cd3a7c550e6","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","bade128898469a64827d5dada62d287d","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","c6d185d2c1dbfcb3a5073e0dcbc580e8","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","f43423eb390620af98561e148aa5b9d0","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_md5","f7a82fa93ea39d6bd388b5693d8d5fcc","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","035a64e2e96a5ab9555b1011e54df4dc43f813de","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","13ab317c5dcab9af2d1bdb22118b9f09f8a4038e","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha1","18d035cae9af6cd9d935abfc1d62b32d73982c8b","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","247544ade138b35666e35c153307f931203baf60","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","34476818cdaef0cdfbaf27365c37c5c6f4e7bb8d","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","34a7a500bd62b21d98e81b19aeef2ca456a78253","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","3b338b3d88cb4e0f32ca747ce18e8e176a21db6f","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","45ac46f6561487bd6f2bcfe9fc0fb552113d999c","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","4a28da3aea356ea4a0a4022aef5b1779a4157040","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","4bfffff0405a1156c801444c35b25c241b687c04","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","59faac136680104948e083b3b67a70af9bfa5d5e","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha1","6ac77e9a7ff7f85a67e5482c559a7f3386aa7668","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","6acaa1ef5398c6a3d9bfaccd89865115eb47e60c","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","8763dd0050cff043ea6252aa3d73ab5c95fe1312","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","8bdd3a3e6bcab7ceadcf1a5fb74d8e4bd32aa9ac","Google TI","Unknown Actor of Unknown Motivations Uses LotL Tools and SSH Reverse Tunnels for Persistence and Execution.csv"
+"hash_sha1","8fa7e857dcadfe3173b0427f71154414563c5175","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","a780dc37f6a517aa3f0f2d7cdd41b3acfe765d70","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","a90c26e7cbb3440ac1cad75cf351cbedef7744a8","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha1","b0e0f12f1be57dc67fa375e860cedd19553c464d","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha1","ba0b67c01215587d682a0fa369a97f4bc3d00dcc","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","cebe788116f1b7f7c3cbfa636cbfdf0824b4f106","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","d10298d14d249941725ca0d4fe3fdd03cc472d42","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","d4757f035c3447c33c2347101d08c1e798f1a044","Google TI","Stranger Strings Yurei Ransomware Operator Toolkit Exposed.csv"
+"hash_sha1","dbd62d788ce8dcaa96116a73f70ee24813d59428","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha1","deb9e2b353533cb72a683f83a56bb2480c9046a0","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha1","f6581e057c866c160712fb1c49af03fba582d994","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","15dd0b89b55c2f75da86c3d8c6bcb09eaf4ecf34efee2e56c23f1016cba3f424","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","18ccb12e8fa5bf1c6e4afb975b082871f5b68b8a922110c5803fc1350ec097df","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","3e9fc13fab3f8d8120bd01604ee50ff65a40121955a4150a6d2c007d34807642","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","40b4f9fcbfa48eb30300449cd851ac3d037606252a7bac41be76098f2f10cffa","Google TI","Unknown Actor of Unknown Motivations Uses LotL Tools and SSH Reverse Tunnels for Persistence and Execution.csv"
+"hash_sha256","4f88d3977a24fb160fc3ba69821287a197ae9b04493d705dc2fe939442ba6461","Google TI","Stranger Strings Yurei Ransomware Operator Toolkit Exposed.csv"
+"hash_sha256","4fa53cbde78cfda816c2ab1ba473e9dec414c70134aac9df9dba1dd61916266d","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","6036390a2c81301a23c9452288e39cb34e577483d121711b6ba6230b29a3c9ff","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","617b67a8e1210e4fc87c92d1d1da45a2f311c08d26e89b12307cf583c900d101","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha256","618f956858949cfb46bcd72876dd1edebd638d5be874133e98e665db8d56a162","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","619c185406e6272ba8ac70ad4c6ff2174e5470011c5737c6c2198cd69d86ec95","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","6b404b64437388afb764e749134c483c3ef0a207dffd87fe723c2d84e22249a7","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","7dc71f1b150b2b117f65132f7899ff4f80f474ac0c8b946f29a993d8a2fc2e39","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","88fc3816c94f9b0191179f4e933843ee4cfdbcb392968605491a387b1235ec12","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","8919034ae60e81654cfe314eaffe7cde309067c8f338b8a46e0df908ae20ddf0","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","8fa3e8fdbaa6ab5a9c44720de4514f19182adc0c9c6001c19cf159b79c0ae9c2","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha256","ab5a169e8c75586fe8a44ec8f15de566ff7e1a36e53673b7567cc28352714086","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","bbd1b8c874b82c8d36288377afa25bb8f05680a8872cf1a3178e4869b2843cda","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","cbad7dd7dfeb40e39ce6c7d469a76e09d48b3fe761a1a9524a91d2166a547988","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","d5bde2a0c304bde679d4f49d6495af54560984d0eeef24c9f5fe7a15a24b6415","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","e10b1fa84f1d6481625f741b69892780140d4e0e7769e7491e5f4d894c2e0e09","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha256","e453e6efc5a002709057d8648dbe9998a49b9a12291dee390bb61c98a58b6e95","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","e5e475db5076e112f69b61ccb36aaedfbb7cac54a03a4a2b3c6a4a9317af2196","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","ed8560c1ac7ceb6983ba995124d5917dc1a00288912387a6389296637d5f815c","Google TI","Axois NPM Supply Chain Incident.csv"
+"hash_sha256","f801813c074568915cde62f383441f39f231409db007a97104795977dc1d4baa","Google TI","Capability Gaps as Targets Forecasting Chinese APT Targeting Under the 15th Five-Year Plan.csv"
+"hash_sha256","fcb81618bb15edfdedfb638b4c08a2af9cac9ecfa551af135a8402bf980375cf","Google TI","Axois NPM Supply Chain Incident.csv"
+"ip_address","142.11.206.73","Google TI","Axois NPM Supply Chain Incident.csv"
