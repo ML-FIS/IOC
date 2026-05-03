@@ -1,0 +1,24 @@
+﻿type,value,source,articlename
+domain,22evxpggnkyrxpluewqsrv5j4jtde6hut2peq3w44d6ase676qlkoead.onion,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+domain,bore.pub,Google TI,New Deep#Door RAT uses stealth and persistence to target Windows.csv
+domain,breached.st,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+domain,masscan.cloud,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+domain,seguridad-ahora.im,Google TI,"Spain in the crosshairs of hackers DGT impersonated to carry out massive scams in Madrid, Catalonia, and Andalusia.csv"
+domain,zero.masscan.cloud,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+hash_md5,0671651cc75808d90f9177fad493ec53,Threatview,Threatview
+hash_md5,199449965acb7ab2ce7d45b70729c784,Threatview,Threatview
+hash_md5,229a945794ad056001982803a6a58a8c,Threatview,Threatview
+hash_md5,6a7a32cee9c2dcd46784a93edc339c0e,Threatview,Threatview
+hash_md5,dce129d76376530da2eb46a61574675b,Threatview,Threatview
+hash_md5,f920747af86b9e42e38a530ff977b499,Threatview,Threatview
+hash_sha256,085eb298bc721fb5de90b911f6a864a4bdd7a7aae1afef7180d59f80faed40c6,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+hash_sha256,2fc0a056fd4eff5d31d06c103af3298d711f33dbcd5d122cae30b571ac511e5a,Google TI,Critrical cPanel flaw mass-exploited in Sorry ransomware attacks.csv
+hash_sha256,4dfdd18b6cc02a7fa5fbe9c20049460367d39980799942c66feba9145a816f29,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+hash_sha256,5f5852b5f604369945118937b058e49064612ac69826e0adadca39a357dfb5b1,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+hash_sha256,8452d9ed94e9aeb0c7fa77213eafd2dafe662f1cb452631ca5077d6dfe979849,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+hash_sha256,95bcc0a2bb0fff25a2770010406cd0964fd4b3033ed8bae181518f7c8b69d324,Google TI,The cPanel Situation Is… - Censys.csv
+ip_address,161.35.110.36,Google TI,New Deep#Door RAT uses stealth and persistence to target Windows.csv
+url,http://22evxpggnkyrxpluewqsrv5j4jtde6hut2peq3w44d6ase676qlkoead.onion,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+url,https://breached.st/members/teampcp.336107,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
+url,https://seguridad-ahora.im/dgt.php,Google TI,"Spain in the crosshairs of hackers DGT impersonated to carry out massive scams in Madrid, Catalonia, and Andalusia.csv"
+url,https://zero.masscan.cloud/v1/telemetry,Google TI,PyTorch Lightning Package Compromised in Mini Shai-Hulud Supply Chain Attack.csv
