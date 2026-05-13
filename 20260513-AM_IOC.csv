@@ -1,0 +1,184 @@
+﻿type,value,source,articlename
+domain,aadicorporation.in,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+domain,aecidiabi.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,ardotcharleybuking.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,asionamedrafter.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,azahabi.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,buzzwellcatering.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,chickpeachix.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,clientpilotclosers.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,consulteclab.com.br,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+domain,farrdigital.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,feiyuwei.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,foliclesalonandspa.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,gitenter.digital,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,githubusercontent.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,legalbriefgenerator.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,lfumachineworks.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,noellepullin.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,preaxeise.com,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+domain,precheetah.net,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+domain,rosrefurboss.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,sumgifaluis.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,timeofoffer.com,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+domain,tracycustombuilders.com,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_md5,06f55a73b369040bee42de084027d3dc,Threatview,Threatview
+hash_md5,3b67ea25fe8336d31ff480af4c857615,Threatview,Threatview
+hash_md5,42b072b8cc6a9ce42b39a25ac39cb7e7,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_md5,483d16bbbb25c1d0e2c05000ef8a72c3,Threatview,Threatview
+hash_md5,51941004943843141444838697520702,Threatview,Threatview
+hash_md5,56ff11e3d7de149ad251b6fd7e565a71,Threatview,Threatview
+hash_md5,58e5e9a7ef509920b05253aa806422fa,Threatview,Threatview
+hash_md5,73f859fe238fdd687736ed2039e1d61d,Threatview,Threatview
+hash_md5,74399b1d6c287ae48db67fc5e3aa5a28,Threatview,Threatview
+hash_md5,798ed7dd5b733b82b05df7fe9f6f546f,Threatview,Threatview
+hash_md5,7ad98274c5b35f178aa65fc75c1ba675,Threatview,Threatview
+hash_md5,873e628f5d558feb47af978f1c076903,Threatview,Threatview
+hash_md5,961528b48b761f9f207978bc7ebac024,Threatview,Threatview
+hash_md5,9ca07ab3525782b35ec7b4a9c931fe88,Threatview,Threatview
+hash_md5,a0f6347cd5b101f1cd2e5a7f50c23bea,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_md5,bdb677e209c25ee4839bfa3011bf4d96,Threatview,Threatview
+hash_md5,c196e3eedb24812568521ec9cbcedf31,Threatview,Threatview
+hash_md5,cb04f21f53d0cfbf576070268b8a8719,Threatview,Threatview
+hash_md5,d0abd35726ec0ce3934f7c8ea793deaf,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_md5,d6c89a7d313aca48f9ac787d27447234,Threatview,Threatview
+hash_md5,dd03408b67f24d61832ab48fc5e41f11,Threatview,Threatview
+hash_md5,dee823048e88af86ae251242ce0de3cc,Threatview,Threatview
+hash_md5,e9df9fe7c5f9185c420974b6c31025d5,Threatview,Threatview
+hash_md5,ef5b753e5a2118d18c5e809c3d159a35,Threatview,Threatview
+hash_sha256,01914660a0d11ef40e0d4bb43dad84716a9ac859097d73bfd15d66bab8f33b7d,Threatview,Threatview
+hash_sha256,073eb2fb4cb1cdbc14c435028dfd04ca631dac4d713b1bfce573f84e90757d37,Threatview,Threatview
+hash_sha256,0ce1d8a47fc78ac53c0b62bed96b20fa721e3e39115a6248d55100eb01eafff1,Threatview,Threatview
+hash_sha256,0de9cc3daa4dc11053c6b43635355c95b6f51f19f617764efb0e0f2729d01e91,Threatview,Threatview
+hash_sha256,133a79e9094c14c0f41378c712fd9a3f7687e5ab6f781bd5fb94774e64f4b48d,Threatview,Threatview
+hash_sha256,15234d5912b39b3fcb25a905fc863ab647e6558e95d553fae8a84549201b9c84,Threatview,Threatview
+hash_sha256,1706da372629c3e4e840eedd50ee85480105d9bd615c42119ad2638b1751b432,Threatview,Threatview
+hash_sha256,177656a9ea40406e611fa9819b9664e6bd111699b49e6bf802ec3cb54b19d00b,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_sha256,1796a0e17ea3657d9360ac4d98580ccbf3780a50545fc0f6a4010dd11766b99b,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,18a3dd7ab5a6cc31bf15d048e519d05b0a569ee5d4595ac6d6abdfdc4d456e94,Threatview,Threatview
+hash_sha256,1921717197c1e6da607cf23a9f3da5f2d0e67ff7cbf6f5a82cd00b53524aa653,Threatview,Threatview
+hash_sha256,2367fe508e8cd8ab57ac65d532ad036f99d11222cf9e06a74d8f54c68931926b,Threatview,Threatview
+hash_sha256,260b52ce5e3a5b9f3c77b700ad4341b77d999c574962dff4c5514f2caaa4923e,Threatview,Threatview
+hash_sha256,298f59d1f3b905563e7c5830911b11607583c0cad4a539ac4c6bdbfe4a1356c6,Threatview,Threatview
+hash_sha256,30df480a1b77469d441a904bae2c7913ad89f82773437ed8a5166c2425ce7b30,Threatview,Threatview
+hash_sha256,3299196b4913f068eeb93e7650a5cf5bbb10244be1e14724abb967d52b625d1e,Threatview,Threatview
+hash_sha256,37be3c5511017c2c7cd4023bb2385cbb2c6a0aa53c5bc6b18781cb6c208a482a,Threatview,Threatview
+hash_sha256,381755b623dd7a4c2b5d80aaf40d7083eea727dd1f473545539029656ca81817,Threatview,Threatview
+hash_sha256,3930d519dacf0441e3abb4c632c9e96794a6d6e5814de06bad044df2916d4ecb,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_sha256,39ed4bffa9d8287a8a807a05cbe4a85e688b23c502607b8d319955f88f665bf5,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,3a725e7ee8e57eebee5a95b1ead945e49ae456f2aba8ef43b597c3fad16b0722,Threatview,Threatview
+hash_sha256,3b9d2f4b65f0943e31221ae1d937ea29d3da8b556dd6b7c4d7846444d7ba3001,Threatview,Threatview
+hash_sha256,3eb7ddfb99097f35279e3a44fff44ff27d19389da9ba99d65ccde9716f21b91c,Threatview,Threatview
+hash_sha256,45387425929d60b59f8d06c1c07f3e399eac8c5289f234bb5a26912509266fd0,Threatview,Threatview
+hash_sha256,47ca3a45f082d84429266dc4eab72d0476afcfa46f62678ef97b7446b1bd94c3,Threatview,Threatview
+hash_sha256,4893de26be7c3014e1f48c6ad171743b30bedc9a1ad5ebdc739dad9dda87caef,Threatview,Threatview
+hash_sha256,4c3cc0bccfc0a8fee5a0813cf14638b46600269ef3a2db6ed553ff3d8bf8afbe,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,5639dd46a65243cab1ccf62d42df1322f1d5df13c4f6142ba43902f6760343cd,Threatview,Threatview
+hash_sha256,5a1c14335d0a8b007ff2813e6ef738e8836be38257cc82fe03c02b71d71e1b01,Threatview,Threatview
+hash_sha256,5a6636ce490789d7f26aaa86e50bd65c7330f8e6a7c32418740c1d009fb12ef3,Threatview,Threatview
+hash_sha256,5b5a306e93a17a7edba89301717e304f72134cc5bfd900c4bf8fc2ea617fabdf,Threatview,Threatview
+hash_sha256,5d706781fc6bb741045e8db41d0a8d9b6252f2908aa0e5df2595795a64e6c60e,Threatview,Threatview
+hash_sha256,5eb9c0577c817e6053ed0658b20e97e0f60077df817f68462ed1f3b243bc0572,Threatview,Threatview
+hash_sha256,5fdbee7aa7ba6a5026855a35a9fe075967341017d3cb932e736a12dd00ed590a,Threatview,Threatview
+hash_sha256,604b9636828b9fa4e65b3378a8af65c1035ba9905a72a64b760a9541694aae1c,Threatview,Threatview
+hash_sha256,644dac24ab7b803065c9bf607a6bf5971f0e5f1c8175420301dcd701004a8ac0,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,65de4ef064eba4afe141fd4226cd7cd96a1eaf9a6f2e47d3d9ed2aa4e257396e,Threatview,Threatview
+hash_sha256,67c2aace4b861db99e5f90ed418d0233d903e9c871b4b76a6364dabcccbe9b25,Threatview,Threatview
+hash_sha256,6948923b6353d20e61acd2a6e6370630b7dc95edc1fb252fd4bd510a68bf7889,Threatview,Threatview
+hash_sha256,7263622822694fc8c2720974c31b5c12b2fdc864ce496ab4f6da57e8c361b59b,Threatview,Threatview
+hash_sha256,731d96ba17bd5714bba1f4f1dbfa0d1487fe2f54ff20bfdc64d4502538c3d587,Threatview,Threatview
+hash_sha256,76c19e4e9e4d24ea1e5a7b795ac6301093f59c15bea4a72f0daa5cda312424ae,Threatview,Threatview
+hash_sha256,773d308b45df7910bf017c0983d1b90245f7b8e09704a1afcada51c15f20c8c0,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_sha256,77a60b5c443f011dc67ace877f5b2ad7773501f3d82481db7f4a5238cf895f80,Threatview,Threatview
+hash_sha256,79dc71be78ad292c97959ab88767d548c625295070d67d944a56c05e7a4b79c1,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,7adaa5460905f9475039ab7724a5a66e7d35d456118fd35086ca1ef03a7d0a9e,Threatview,Threatview
+hash_sha256,7bebc4b248402dbf988b92eb7d9c86797bb302b983e63ce0d2dba96f0f8a345a,Threatview,Threatview
+hash_sha256,7ccee0bc59cc09e48a3cd99f2cbcd0f478f6503d478042afc660902c1237020a,Threatview,Threatview
+hash_sha256,7d3654531c32d941b8cae81c4137fc542172bfa9635f169cb392f245a0a12bcb,Threatview,Threatview
+hash_sha256,7d7948005af45b2fbc59a20c266ffd70f584d0fba1a28e048bd9994ad9353bdb,Threatview,Threatview
+hash_sha256,8047ce0c7566090d522b034ada16cee1febbb08cdaf9a95363e46c6e11f29139,Threatview,Threatview
+hash_sha256,82938346b0252d8d0eec02adaa10adcc0547d32c32c4aeed0873097d1ae3684f,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_sha256,8368ca37c0dc2e1bbf575e178fed9fd4f962504c4750164eac8b83b1f9bd78d8,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,8a132e7dd4876c87b5c425db32291bd54a2f3a477c78ceb4d29f297867a150fa,Threatview,Threatview
+hash_sha256,8a9ec228c1b1cedf445b2751036b4ef50f2a5a68932996bea373d586f3b2d5cf,Threatview,Threatview
+hash_sha256,8b7d9c3085decba6895528bc26003059c779ede983e24f629c26d867f58edcb9,Threatview,Threatview
+hash_sha256,8ce84443a023c6afe22f14f0b6c56d76f53e09540c0d628a2f47e4f0fa981aec,Threatview,Threatview
+hash_sha256,904cee0e70cf6625790b9355993a02d41f88f21ab5ab376f6c08aae649c5fad0,Threatview,Threatview
+hash_sha256,9199eda67e980f949e4e30e94765b7c4883166b68072be65629a60d8121239b6,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,9241da7f3f4bff47e6682940ad073afbf66b9ad1246ff9c191759c3281077f34,Threatview,Threatview
+hash_sha256,94bbe5961689a597ccd716281012fcedb189356140bbc641451a8b7132f41e68,Threatview,Threatview
+hash_sha256,9e8aea15eff60db1060509564b0cee357491a84fe4ce7ccc34b384c67a5e805a,Threatview,Threatview
+hash_sha256,a133809a768c7c6b958d72ff6857677b14ed6bf284b99dc81a121442dfe04f90,Threatview,Threatview
+hash_sha256,a3cea28744177b481a7b92e2e075c619d29e0b0a4a1b72a5587cb472e81feae7,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,a4e560c61861c4c3d6d614217d93f38fadea8ee6b127ccd85618ff4312582600,Threatview,Threatview
+hash_sha256,a78188a50f25e9b28f52c297dc4137c81f8da60d1a1422735378f1416a36bc92,Threatview,Threatview
+hash_sha256,a873c8aa34cdebe0e90a40f3fae793b8f3253dc2bd536de85cf5f8d5299dfa00,Threatview,Threatview
+hash_sha256,aa15b0ae4d1e4ab57ee78a0545b59ba04fe2959f8a4d9f2bf9ca667754515297,Threatview,Threatview
+hash_sha256,ae409f3d835b583fd60657a894398589d3f712dcb72c85d8057fc81571d73cec,Threatview,Threatview
+hash_sha256,af74e8e8470e67bbc2d1a015248c590d3a29b0eb4188561997b65bc86020dc81,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,b4fc478b6c4699d52f42c382ce665e61d093fbef964a9e448aee5ca95ed261af,Threatview,Threatview
+hash_sha256,b956e00320c4d41e5122a9a94d7cd03f4d5b109b64fc84ccccc777042df65738,Threatview,Threatview
+hash_sha256,c143e4e66d3d0de754da401c34f0039eab71860b0f5d2d6227b8021677de9c4d,Threatview,Threatview
+hash_sha256,c283d62a0b3a8b073dc436c71611f6d1ecb324b70a4f1c5cd46ec9b4beccd02e,Threatview,Threatview
+hash_sha256,c35594d42f7a5d5d2895164147ee1bc62bb8e294c8468093b7d6fcaab0b174c8,Threatview,Threatview
+hash_sha256,c38c79fe170c54976c634f50e2a7ca090719366eabad58ec2011c18775c3366d,Threatview,Threatview
+hash_sha256,c43fd026f99bb4b767e17a2ddb55d7e2841129268d0afa1f99bd85574d26851c,Threatview,Threatview
+hash_sha256,c5bd1e5e28ec4d8af6ebc6d4fa50361308b26ea1df73786170536a9cecd42368,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,c81d723205a25d4cb8bab7b31889623edf5f7e94d63df0d224225b566864cec2,Threatview,Threatview
+hash_sha256,c9d0e4735488590c298bafd4be88817a3a3af6260b8e63514bd4f0d3b6fb7292,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,cb1270948fe3d68b8a21658aa38c12b3e422b408d4c3a6342051d35eab97435e,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+hash_sha256,cf736497e4958f4392a38f686d85d004b473a34118579645b62db5647959822d,Threatview,Threatview
+hash_sha256,d54a6dafa3e4d332aee833d6a96f5a74f0047e37f43dac72a669d6a4a0b9820f,Threatview,Threatview
+hash_sha256,d75edc42b3c9f2af7dee42ec38a12ae12a43983b7012afee4f8a1959e1d6d8a9,Threatview,Threatview
+hash_sha256,d83a3896b808a865204359191363246fa4508d95ffb4f1f1b56446e6bd8f2ded,Threatview,Threatview
+hash_sha256,d9d5251948aee96e7f69b55c707b1f618160c137fdceec1d2f02e2691e645be0,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,db7680c1636d67085bbd7ea3a15017b4f53bfdd17b0b134c4b3f43ff7f925a6c,Threatview,Threatview
+hash_sha256,de8901c979c5b28c645a7f570f9a95ac011ce652b3dd95b6bfe586e5362460a2,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,f09e7fb98cdc27234d9c76e524aaa0348e86a7bc7013f1ba57e5ea068dcd9689,Threatview,Threatview
+hash_sha256,f48cb97ec31e9ae5b11ebee8d2053cc5f8813853b05dab5d15d88493fff398ed,Threatview,Threatview
+hash_sha256,f59cb70d4db391477011593aa378ff4c59f144dcbb087ea8ad277e0001f652a1,Threatview,Threatview
+hash_sha256,f7a1f89708c6a40fb1d9c01b4e3e0045965a0b3990af025e5292baccb8d8eedb,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+hash_sha256,f90e131ec641d1cda33800217bdf6295a0c95d8f4b2ef0406ecda78ce19685ad,Threatview,Threatview
+hash_sha256,fc087a398d8435ecb1c32038ecb0ffa12e002f7701a02b0a25cb06b3ae45b476,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+hash_sha256,fc517a54aecc1e1e06e5d0ab902ce24bf57782cd77507327da9e04f55aad82bd,Threatview,Threatview
+hash_sha256,fcc1abd4122c4aa6f6f7722d7d3b093b95aeb84ee697239978e6201aa88cf4da,Threatview,Threatview
+hash_sha256,24680027afadea90c7c713821e214b15cb6c922e67ac01109fb1edb3ee4741d9,Google TI,Actor of Unknown Motivations Leverages Access from a Previous Compormise to Initiate Coordinated Supply Chain Attack
+hash_sha256,395ec7acd475a8acd358adc75c4615cf41737aed8a96c4f2dd792c8a6af4140c,Google TI,China-Nexus Threat Actor Deploys SLICKDEMON Malware via Software Supply Chain Compromise of DAEMON Tools
+ip_address,104.21.2.156,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.3.130,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.36.250,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.50.46,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.51.221,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.67.138,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.76.105,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,104.21.9.173,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,15.197.240.20,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,162.241.85.250,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+ip_address,172.67.155.206,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.156.154,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.166.189,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.183.74,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.187.59,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.193.15,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.197.91,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,172.67.199.87,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,177.52.160.32,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+ip_address,185.199.111.133,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+ip_address,185.205.211.217,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+ip_address,24.144.126.73,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+ip_address,91.92.241.13,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://24.144.126.73/cdn/api,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+url,https://aadicorporation.in/.well-known/Page,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://aadicorporation.in/wp-content/Page,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://chickpeachix.com/config/config.php,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://chickpeachix.com/getcode.php,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://chickpeachix.com/js/code-fetch.js,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://chickpeachix.com/js/js.js,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://chickpeachix.com/js/loader.js,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://consulteclab.com.br/wp-includes/rest-api/********/********/********/Kai/krveri.html,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://consulteclab.com.br/wp-includes/rest-api/********/********/********/Olw/krveri.html,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://consulteclab.com.br/wp-includes/rest-api//*/*/*/*/*/*/*//*/*/*/*/*/*/*//*/*/*/*/*/*/*/Kai/krveri.html,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://consulteclab.com.br/wp-includes/rest-api//*/*/*/*/*/*/*//*/*/*/*/*/*/*//*/*/*/*/*/*/*/Olw/krveri.html,Google TI,Beware of Corporate-Targeted Phishing Emails Impersonating the National Tax Service and Financial Institutions Using PhaaS.csv
+url,https://raw.githubusercontent.com/om5678774/kt4567/main/landing.txt,Google TI,Campaign 26.055 Actor of Unknown Motivations Leverages ClickFix Phishing Lures to Target Multiple Organizations.csv
+url,https://tracycustombuilders.com/cdn/api,Google TI,Unknown Actor Utilizes PowerShell-based Fileless Execution and Establishes Multiple Persistence Mechanisms via Registry Run Keys and Scheduled Tasks.csv
+url,https://audit.checkmarx.cx/v1/telemetry,Google TI,Actor of Unknown Motivations Leverages Access from a Previous Compormise to Initiate Coordinated Supply Chain Attack
