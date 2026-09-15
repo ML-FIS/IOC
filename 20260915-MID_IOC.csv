@@ -1,0 +1,208 @@
+﻿type,value,source,articlename
+hash_md5,5c268f58239d8c46e2cf7e0415201367,Threatview,Threatview
+hash_md5,6ed3fa391a14acd768de91f921eb0d95,Threatview,Threatview
+hash_md5,8b9f58d8ed798d4e75f1efa8934ac892,Threatview,Threatview
+hash_md5,a8480e8bad9af229dc9e34358772f4a0,Threatview,Threatview
+hash_md5,d5deec0ee2aa398f296b79e6da0a5d80,Threatview,Threatview
+hash_md5,e1d9577cada440b39dc4a1e0fa09e7bc,Threatview,Threatview
+hash_sha256,26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae,Threatview,Threatview
+hash_sha256,297028507a8b7424aafd7f419020190e14456b1a5fef34c10a09342a4329fab1,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,3e988894de9288f5e5d05514ce6c9c7d839f147ab9590b2baf47e9637e7394d2,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,4ad4bafefda71270578645f6f6db7b8402994f1316267f21770d2b127aefe68c,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,61bb29bc1d66721e590341d354714248019d48a4be024cef8439340cd2f55e32,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,7ddf8f1813208e95dde6003d285d7d8d60690966f00fd1284612d108b86c647d,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,95e6b608cd1a7720798d20627264a70a5b8c7f9b91140690ec520b30d9b16999,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,9c7eda2c4d3aaa8746495741bef57a07de180f0409409faf0f91658e88ba33f5,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+hash_sha256,a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f,Threatview,Threatview
+hash_sha256,bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9,Threatview,Threatview
+hash_sha256,c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4,Threatview,Threatview
+hash_sha256,f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e,Threatview,Threatview
+url,%20rv:148.0)%20Gecko/20100101%20Firefox/148.0&platform=Win32&cpu=2&ram=undefined&origin=https://buckinghampsych.com&language=en-CA&browser=firefox&method=browser_update&layer=https://updateocean.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,%20rv:148.0)%20Gecko/20100101%20Firefox/148.0&platform=Win32&cpu=2&ram=undefined&origin=hxxps//buckinghampsych.com&language=en-CA&browser=firefox&method=browser_update&layer=hxxps//updateocean.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&platform=Win32&cpu=30&ram=32&origin=https://ddvnv.com&language=es-ES&browser=firefox&method=browser_update&layer=https://autoupdatet.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,%20rv:150.0)%20Gecko/20100101%20Firefox/150.0&platform=Win32&cpu=32&ram=32&origin=https://buckinghampsych.com&language=no-NO&browser=firefox&method=browser_update&layer=https://autoupdatet.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,%20Win64,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,%20x64,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdaters.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatet.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatet.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatet.com/get_update?i=73957,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatet.com:443,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatet.com:443/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatethis.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatethis.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatethis.com:443,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://autoupdatethis.com:443/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://exactupdate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://exactupdate.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://exactupdate.com/get_update?i=13111,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://exactupdate.com/get_update?i=6539,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://invokeupdate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://mothechurh.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://mothechurh.com/get_update?i=23148,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://poqwserty.com/user/me,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,http://stackzyra.com/uu,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,http://updatecurrent.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1780995407081,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com/get_update?i=195551,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com/get_update?i=203428,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com:443,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updatemsnow.com:443/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/check_allow_host?callback=handleOtherServerResponse_1780060921349,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/check_allow_host?callback=handleOtherServerResponse_1780060921349&id=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/click_download?callback=handleOtherServerResponse1_1780060876743,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/click_download?callback=handleotherserverresponse1_1780060876743&id=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/first_allow_host?callback=handleOtherServerResponse_1780060873301&ua=Mozilla/5.0%20(Windows%20NT%2010.0,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://updateocean.com/get_update?i=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://uptodatehere.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,http://www.ski-snowboardvancouver.ca/d.js,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,https://animal-zoo-lake.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/get_update?i=122048,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/get_update?i=132237,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/get_update?i=138173,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/get_update?i=138872,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdaters.com/url=,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/allow_host,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/click_download?callback=handleOtherServerResponse1_1780620943403,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/first_allow_host,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/first_allow_host?callback=handleOtherServerResponse_1780085876146&ua=Mozilla/5.0%20(Windows%20NT%2010.0,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/first_allow_host?callback=handleOtherServerResponse_1780578227013&ua=Mozilla/5.0%20(Windows%20NT%2010.0,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_off_update?i=83884,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=102775,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=106632,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=107884,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=109138,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=110756,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=112640,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=112700,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=113424,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=117283,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=121851,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=122879,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=142742,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=144512,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=148873,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=152398,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=231935,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=25416,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=41408,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=66523,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=68635,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=70662,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=73957,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=80138,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=83793,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=85074,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=85529,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=92256,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=92328,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=92328/update.zip,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=92594,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/get_update?i=NNNNN,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatet.com/url=,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/get_update?i=111166,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/get_update?i=115352,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/get_update?i=135478,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://autoupdatethis.com/url=,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://captchadefence.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://cloudbreachdetection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://cloudsupergatekeeper.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://dsfeuyyd.top,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,https://exactupdate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exactupdate.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exactupdate.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exactupdate.com/get_update?i=12092,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exactupdate.com/get_update?i=2736,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exactupdate.com/get_update?i=4857,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://exclusivecloudprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://extrafireprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://findyoursoftupdate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://freesoftupdater.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://fulcrumsec.net/lexisnexis,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,https://gatekeepernet.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://invokeupdate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://invokeupdate.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://invokeupdate.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://moderncloudprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://moderncloudprotection.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://mothechurh.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://mothechurh.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://mothechurh.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://mothechurh.com/get_update?i=22096,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://mothechurh.com/get_update?i=23148,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://ocean-animals.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://park-lake.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://perfectcloudgate.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://personalprogrammupdater.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://popularsoftupdates.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://poqwserty.com,Google TI,Financial Gain Actor Leverages ClickFix and PowerShell Scripts to Deploy NETSUPPORT.csv
+url,https://powerfireguard.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://powerfullcloudflare.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://premiumcloudguard.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://publicwebprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://superfirewallprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://superwebprotection.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://topclouddefence.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatecurrent.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatecurrent.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatecurrent.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1780992031595&id=192163,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1780995407081,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1780995407081&id=191296,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1781013129045,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/click_download?callback=handleOtherServerResponse1_1781324961752,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/first_allow_host,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=189277,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=195551,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=202437,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=202513,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=203428,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=204876,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=227304,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=229280,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=241572,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=246227,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=256840,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=287531,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=291889,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/get_update?i=294278,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updatemsnow.com/url=,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/check_allow_host?callback=handleOtherServerResponse_1780060921349,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/check_allow_host?callback=handleOtherServerResponse_1780060921349&id=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/click_download,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/click_download?callback=handleOtherServerResponse1_1780060876743,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/click_download?callback=handleOtherServerResponse1_1780060876743&id=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/click_download?callback=handleOtherServerResponse1_1780928439619&id=180718,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/first_allow_host?callback=handleOtherServerResponse_1780060873301,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/first_allow_host?callback=handleOtherServerResponse_1780060873301&ua=Mozilla/5.0%20(Windows%20NT%2010.0,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/get_update?i=29861,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/get_update?i=36314,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateocean.com/get_update?i=38952,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateyourprogram.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://updateyoursoft.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://uptodatehere.com,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://uptodatehere.com/favicon.ico,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://uptodatehere.com/get_script,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
+url,https://uptodatehere.com/get_update?i=298708,Google TI,Actor of Unknown Motivations Leverages ClickFix Tactics and Node.js for Initial Access.csv
